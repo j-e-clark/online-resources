@@ -301,11 +301,10 @@
 
 > Services for Business
 
-| Website                               | Description                                               |
-| ------------------------------------- | --------------------------------------------------------- |
-| [Teemill](https://teemill.com)        | Sell T-Shirts Online                                      |
-| With a Teemill print-on-demand store. |
-| [](https://withjack.co.uk)            | With Jack is all about insurance for freelance creatives. |
+| Website                             | Description                                                |
+| ----------------------------------- | ---------------------------------------------------------- |
+| [Teemill](https://teemill.com)      | Sell T-Shirts Online with a Teemill print-on-demand store. |
+| [With Jack](https://withjack.co.uk) | With Jack is all about insurance for freelance creatives.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
