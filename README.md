@@ -3,8 +3,10 @@
 ## Table of Contents
 
 - [Coding](#coding)
+- [Connectivity](#connectivity)
 - [COVID-19](#covid-19)
 - [CSS](#css)
+- [Digital Signage](#digital-signage)
 - [Electric Car Charging](#electric-car-charging)
 - [Electric Cars](#electric-cars)
 - [Electronics](#electronics)
@@ -19,12 +21,17 @@
 - [Jobs](#jobs)
 - [Livestreaming](#livestreaming)
 - [Maker](#maker)
+- [Merchandise](#merchandise)
+- [Misc](#misc)
 - [Markdown](#markdown)
 - [Networking](#networking)
+- [React](#react)
 - [Services - Business](#services---business)
 - [Software - Business](#software---business)
 - [Software - Development](#software---development)
 - [Teaching](#teaching)
+- [Tourism](#tourism)
+- [Video Conferencing](#video-conferencing)
 - [Village Halls](#village-halls)
 - [VoIP](#voip)
 - [Web Development](#web-development)
@@ -43,13 +50,24 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Connectivity
+
+> Fixed line and mobile resources
+
+| Website                                                                      | Description                                                                                                                                              |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Zen Internet](https://zen.mentiafon-me.com/m/ol/sa6xl-james-clark)          | Zen Internet \* Affiliate Link                                                                                                                           |
+| [Zen Internet - Service Status](https://status.zen.co.uk/)                   | Zen service status page.                                                                                                                                 |
+| [OpenReach - Call Waiting List](https://www.openreach.com/call-waiting-list) | Analogue phone lines will have reached the end of their life by 2025 – so we’re replacing them with greener, faster, and more reliable digital services. |
+
 ## COVID-19
 
 > COVID-19 Resources
 
-| Website                                  | Description                          |
-| ---------------------------------------- | ------------------------------------ |
-| [WHO Dashboard](https://covid19.who.int) | WHO Coronavirus (COVID-19) Dashboard |
+| Website                                              | Description                           |
+| ---------------------------------------------------- | ------------------------------------- |
+| [gov.uk Coronavirus](https://www.gov.uk/coronavirus) | UK Government Coronavirus information |
+| [WHO Dashboard](https://covid19.who.int)             | WHO Coronavirus (COVID-19) Dashboard  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -66,7 +84,20 @@
 | [CSS-Tricks](https://css-tricks.com)                                             | Free CSS tricks and some unique ideas for beginners and advanced.                       |
 | [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way |
 | [Kevin Powell](https://www.kevinpowell.co)                                       | Kevin is a CSS Evangelist                                                               |
+| [Style Stage](https://stylestage.dev)                                            | A modern CSS showcase styled by community contributions                                 |
 | [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/) | Building Website Headers with CSS Flexbox                                               |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Digital Signage
+
+> Hardware and software solutions for digital signage
+
+| Website                       | Description                                   |
+| ----------------------------- | --------------------------------------------- |
+| [Kitcast](https://kitcast.tv) | Professional Quality Digital Signage Software |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -89,12 +120,14 @@
 
 > Interesting electric cars
 
-| Website                                                                                     | Description                        |
-| ------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [IONIQ 5](https://www.hyundai.co.uk/new-cars/ioniq5)                                        | Hyundai IONIQ 5                    |
-| [IONIQ 5 - EV Database](https://ev-database.uk/car/1477/Hyundai-IONIQ-5-Standard-Range-AWD) | Hyundai IONIQ 5 Standard Range AWD |
-| [Kia EV6](https://www.kia.com/uk/new-cars/ev6/)                                             | The Kia EV6 Electric Car           |
-| [Kia EV6 - EV Database](https://ev-database.uk/car/1482/Kia-EV6-Long-Range-AWD)             | Kia EV6 Long Range AWD             |
+| Website                                                                                     | Description                                                                           |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [IONIQ 5](https://www.hyundai.co.uk/new-cars/ioniq5)                                        | Hyundai IONIQ 5                                                                       |
+| [IONIQ 5 - EV Database](https://ev-database.uk/car/1477/Hyundai-IONIQ-5-Standard-Range-AWD) | Hyundai IONIQ 5 Standard Range AWD                                                    |
+| [Kia EV6](https://www.kia.com/uk/new-cars/ev6/)                                             | The Kia EV6 Electric Car                                                              |
+| [Kia EV6 - EV Database](https://ev-database.uk/car/1482/Kia-EV6-Long-Range-AWD)             | Kia EV6 Long Range AWD                                                                |
+| [Next Green Car](https://www.nextgreencar.com)                                              | Nextgreencar.com – the buyer's guide to economical and environmentally friendly cars. |
+| [Pick an EV](https://pickanev.com)                                                          | EV choosing site from Andrew Till                                                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -116,10 +149,11 @@
 
 > Email resources
 
-| Website                                                                                                                   | Description                                       |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Malware Expert - Popular Blacklists](https://malware.expert/security/the-7-popular-blacklists-to-keep-away-spam-emails/) | The 7 Popular Blacklists To Keep Away Spam Emails |
-| [Spamhaus](https://www.spamhaus.org)                                                                                      | The Spamhaus Project                              |
+| Website                                                                                                                   | Description                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [intoDNS](https://intodns.com)                                                                                            | IntoDNS checks the health and configuration and provides DNS report and mail servers report. |
+| [Malware Expert - Popular Blacklists](https://malware.expert/security/the-7-popular-blacklists-to-keep-away-spam-emails/) | The 7 Popular Blacklists To Keep Away Spam Emails                                            |
+| [Spamhaus](https://www.spamhaus.org)                                                                                      | The Spamhaus Project                                                                         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -133,13 +167,17 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Apollo Energy - Market Analysis](https://www.apolloenergy.co.uk/news/market-analysis)                                                           | Regular updates on the Energy Market                                                                                                                                                                           |
 | [Carbon Intensity API](https://carbonintensity.org.uk)                                                                                           | The Carbon Intensity API uses state-of-the-art Machine Learning and sophisticated power system modelling to forecast the carbon intensity and generation mix 96+ hours ahead for each region in Great Britain. |
+| [Chameleon IHD Help](https://chameleontechnology.co.uk/inhomedisplayhelp/)                                                                       | User Guide for Your Chameleon Smart In-Home Display                                                                                                                                                            |
 | [Elexon](https://www.elexon.co.uk/knowledgebase/where-can-i-find-details-of-wholesale-prices-of-electricity-in-great-britain/)                   | Wholesale prices of electricity in Great Britain                                                                                                                                                               |
 | [Energy Stats - Octopus Agile SE](https://www.energy-stats.uk/octopus-agile-south-eastern-england/)                                              | Stats for Octopus Agile Tariff (South Eastern England)                                                                                                                                                         |
+| [Energy Stats - works with Octopus API](https://www.energy-stats.uk/works-with-octopus-api/)                                                     | Devices and Apps that work with the Octopus API                                                                                                                                                                |
 | [epexspot Market Data](https://www.epexspot.com/en/market-data?data_mode=table&modality=Auction&sub_modality=DayAhead&market_area=GB&product=30) | EPEX SPOT is the leading exchange for the power spot markets at the heart of Europe.                                                                                                                           |
 | [Green Light Signal](https://www.nationalgrid.com/greenlightsignal)                                                                              | The Green Light Signal from the National Grid                                                                                                                                                                  |
 | [Nord Pool Market Data](https://www.nordpoolgroup.com/Market-data1/#/n2ex/table)                                                                 | Nord Pool runs the leading power market in Europe, offering both day-ahead and intraday markets to its customers.                                                                                              |
 | [Octopus Energy](https://share.octopus.energy/lucky-moose-728)                                                                                   | In 2016, Octopus entered the market to disrupt the status quo with energy that's good for the planet, good for your wallet, and, honestly, good for your soul. \* Affiliate Link                               |
 | [Octopus Energy APIs](https://developer.octopus.energy/docs/api/#list-consumption-for-a-meter)                                                   | Octopus Energy REST API Documentation                                                                                                                                                                          |
+| [Smart Meters](https://www.smartme.co.uk/)                                                                                                       | Smart Meters: The full story                                                                                                                                                                                   |
+| [SMICoP](https://www.smicop.co.uk/)                                                                                                              | The Smart Meter Installation Code of Practice                                                                                                                                                                  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -173,9 +211,10 @@
 
 > HTML and related
 
-| Website                | Description                                                            |
-| ---------------------- | ---------------------------------------------------------------------- |
-| [AMP](https://amp.dev) | AMP is a web component framework to easily create user-first websites. |
+| Website                                                                     | Description                                                            |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [AMP](https://amp.dev)                                                      | AMP is a web component framework to easily create user-first websites. |
+| [HTML Headings](https://mdbootstrap.com/education/html/chapter-1-lesson-6/) | From a Bootstrap 4 tutorial                                            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -185,17 +224,20 @@
 
 > JAMStack Web technologies
 
-| Website                                                                             | Description                                                                                                                                                           |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Eleventy](https://www.11ty.dev)                                                    | Eleventy is a simpler static site generator.                                                                                                                          |
-| [Gatsby](https://www.gatsbyjs.com)                                                  | Gatsby provides development teams a frontend framework for creating rich, optimized websites and a cloud platform for delivering them on a blazing fast edge network. |
-| [Gatsby - Intro workshop 2021](https://intro-workshop-gatsbyconf-2021.gatsbyjs.io/) | Getting Started with Gatsby Workshop from GatsbyCONF 2021                                                                                                             |
-| [GraphQL](https://graphql.org)                                                      | A query language for your API                                                                                                                                         |
-| [Hasura](https://hasura.io/learn/)                                                  | The Hasura GraphQL Engine provides GraphQL APIs over new or existing Postgres databases.                                                                              |
-| [Jamstack](https://jamstack.org)                                                    | The modern way to build Websites and Apps that delivers better performance                                                                                            |
-| [SendOwl](https://www.sendowl.com)                                                  | A better way to sell your digital products.                                                                                                                           |
-| [Strapi](https://strapi.io)                                                         | Strapi is the leading open-source headless CMS. It’s 100% Javascript, fully customizable and developer-first.                                                         |
-| [Vercel](https://vercel.com/)                                                       | Vercel enable developers to build and publish wonderful things                                                                                                        |
+| Website                                                                                                                 | Description                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [AWS Lambda guide](https://www.serverless.com/aws-lambda)                                                               | AWS Lambda - The Ultimate Guide                                                                                                                                       |
+| [AWS SDK for JavaScript](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/getting-started-nodejs.html) | Getting started in Node.js on AWS                                                                                                                                     |
+| [Eleventy](https://www.11ty.dev)                                                                                        | Eleventy is a simpler static site generator.                                                                                                                          |
+| [Gatsby](https://www.gatsbyjs.com)                                                                                      | Gatsby provides development teams a frontend framework for creating rich, optimized websites and a cloud platform for delivering them on a blazing fast edge network. |
+| [Gatsby - Intro workshop 2021](https://intro-workshop-gatsbyconf-2021.gatsbyjs.io/)                                     | Getting Started with Gatsby Workshop from GatsbyCONF 2021                                                                                                             |
+| [GraphQL](https://graphql.org)                                                                                          | A query language for your API                                                                                                                                         |
+| [Hasura](https://hasura.io/learn/)                                                                                      | The Hasura GraphQL Engine provides GraphQL APIs over new or existing Postgres databases.                                                                              |
+| [Jamstack](https://jamstack.org)                                                                                        | The modern way to build Websites and Apps that delivers better performance                                                                                            |
+| [SendOwl](https://www.sendowl.com)                                                                                      | A better way to sell your digital products.                                                                                                                           |
+| [Strapi](https://strapi.io)                                                                                             | Strapi is the leading open-source headless CMS. It’s 100% Javascript, fully customizable and developer-first.                                                         |
+| [Strapi - Tutorials](https://strapi.io/tutorials)                                                                       | Follow along with one of our community tutorials to get you up and running with Strapi.                                                                               |
+| [Vercel](https://vercel.com/)                                                                                           | Vercel enable developers to build and publish wonderful things                                                                                                        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -205,12 +247,18 @@
 
 > Blog posts on topics related to the JAMStack
 
-| Website                                                                                                 | Description                                                                                                                |
-| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [Chris Biscardi](https://www.christopherbiscardi.com)                                                   | An independent consultant that works with startups built on OSS. Here he writes about JAMStack, Serverless, MDX, and more. |
-| [Headless Possibilities](https://www.boye-co.com/blog/2020/9/8/headless-possibilities)                  | In depth article on going headless                                                                                         |
-| [Understanding Rendering in React ♻ ⚛️](https://dev.to/teo_garcia/understanding-rendering-in-react-i5i) | Understanding Rendering in React ♻ ⚛️                                                                                      |
-| [Use Speedlify](https://www.zachleat.com/web/speedlify/)                                                | Use Speedlify to continuously measure site performance.                                                                    |
+| Website                                                                                                                                     | Description                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [Chris Biscardi](https://www.christopherbiscardi.com)                                                                                       | An independent consultant that works with startups built on OSS. Here he writes about JAMStack, Serverless, MDX, and more. |
+| [Creating A Blog With Eleventy](https://keepinguptodate.com/pages/2019/06/creating-blog-with-eleventy/)                                     | This article covers creating a blog from scratch using the Node.js powered static site generator Eleventy                  |
+| [Headless Possibilities](https://www.boye-co.com/blog/2020/9/8/headless-possibilities)                                                      | In depth article on going headless                                                                                         |
+| [Hosting app on S3](https://www.sankalpjonna.com/posts/hosting-your-entire-web-application-using-s3-cloudfront)                             | Hosting your entire web application using S3 + CloudFront                                                                  |
+| [How to build an ecommerce site](https://blog.logrocket.com/how-to-build-an-ecommerce-site-with-strapi-vue-js-and-flutterwave/)             | How to build an ecommerce site with Strapi, Vue.js, and Flutterwave                                                        |
+| [Low budget serverless scraping](https://thenewstack.io/how-daily-dev-built-a-low-budget-serverless-scraping-pipeline-for-online-articles/) | How Daily.Dev Built a Low-Budget Serverless Scraping Pipeline for Online Articles                                          |
+| [Trending on Github](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-3rd-july-2020-2agi)                     | 🚀10 Trending projects on GitHub for web developers - 3rd July 2020                                                        |
+| [Understanding Rendering in React ♻ ⚛️](https://dev.to/teo_garcia/understanding-rendering-in-react-i5i)                                     | Understanding Rendering in React ♻ ⚛️                                                                                      |
+| [Use Speedlify](https://www.zachleat.com/web/speedlify/)                                                                                    | Use Speedlify to continuously measure site performance.                                                                    |
+| [Which AWS Certification](https://digitalcloud.training/which-aws-certification-should-i-get/)                                              | Which AWS certification should I get?                                                                                      |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -225,6 +273,7 @@
 | [JavaScript: Novice to Ninja](https://www.sitepoint.com/premium/books/javascript-novice-to-ninja-2nd-edition/read/1) | As comprehensive as it can get. In 600+ pages you'll go from JavaScript Novice to Ninja. Covering everything from arrays, logic and loops, to functions, objects, DOM, events, testing and debugging, Ajax and more. It's everything you need to build with JavaScript. |
 | [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)    | A first splash into JavaScript                                                                                                                                                                                                                                          |
 | [Snipcart - Javascript](https://snipcart.com/blog/javascript-beginner-intro-exercises)                               | JavaScript Beginners: Friendly Intro & Exercises                                                                                                                                                                                                                        |
+| [Why npm scripts?](https://css-tricks.com/why-npm-scripts/)                                                          | Article about using npm scripts as a build process and the command line in general.                                                                                                                                                                                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -248,10 +297,12 @@
 
 > Software and Hardware for Livestreaming
 
-| Website                                    | Description                                                                                            |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| [Sharelink](https://sharelink.tv)          | Sharelink expands the capabilities of your Vidiu encoder to help you reach more viewers more reliably. |
-| [Here to Record](https://heretorecord.com) | Everything you need to know about live-video production.                                               |
+| Website                                                                              | Description                                                                                            |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| [BirdDog](https://bird-dog.tv)                                                       | World's Best NDI Tools                                                                                 |
+| [Decimator MD-LX](http://www.decimator.com/Products/MiniConverters/MD-LX/MD-LX.html) | HDMI / SDI Bi-Directional Convertor                                                                    |
+| [Sharelink](https://sharelink.tv)                                                    | Sharelink expands the capabilities of your Vidiu encoder to help you reach more viewers more reliably. |
+| [Here to Record](https://heretorecord.com)                                           | Everything you need to know about live-video production.                                               |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -265,6 +316,35 @@
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [Raspberry Pi - JavaScript on Pico](https://www.raspberrypi.org/forums/viewtopic.php?t=304964) | JavaScript on the Pico using the XS JavaScript engine in the Moddable SDK. |
 | [Shapeways](https://www.shapeways.com/create)                                                  | Shapeways custom 3D printing service.                                      |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Merchandise
+
+> Merchandise suppliers
+
+| Website                                                                                | Description                                                           |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [Printful](https://www.printful.com)                                                   | Easy print-on-demand drop shipping and fulfillment warehouse services |
+| [Teemill](https://teemill.com)                                                         | Sell T-Shirts Online with a Teemill print-on-demand store.            |
+| [Trolley Coins](http://www.keyringsbadgesandbands.co.uk/?page=catalogue&categoryID=15) | Trolley Coins from Keyrings, Badges & Bands                           |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Misc
+
+> Any links I want to note but don't know where to put them!
+
+| Website                                                                                                          | Description                                                                               |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Amazon First Reads](https://www.amazon.co.uk/firstreads)                                                        | Amazon First Reads                                                                        |
+| [Apple TV Development](https://www.programmersought.com/article/13675638712/)                                    | How to unlock detailed streaming statistics on Apple TV                                   |
+| [Amazing Waterfowl Facts](https://www.ducks.org/conservation/waterfowl-research-science/amazing-waterfowl-facts) | Incredible information from the world of waterfowl!                                       |
+| [Clever Surround Sound](https://9to5mac.com/2020/08/12/surround-sound-speakers-for-your-mac/)                    | Clever BBC feature lets you use iPhones and iPads as surround-sound speakers for your Mac |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -297,14 +377,26 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## React
+
+> Sites covering React
+
+| Website                                                                                                                        | Description                                       |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
+| [FaceID and TouchID in React Native](https://blog.logrocket.com/how-to-implement-faceid-and-touchid-in-react-native-and-expo/) | Using FaceID and TouchID in React Native and Expo |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Services - Business
 
 > Services for Business
 
-| Website                             | Description                                                |
-| ----------------------------------- | ---------------------------------------------------------- |
-| [Teemill](https://teemill.com)      | Sell T-Shirts Online with a Teemill print-on-demand store. |
-| [With Jack](https://withjack.co.uk) | With Jack is all about insurance for freelance creatives.  |
+| Website                                                                | Description                                                                       |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Tide Company Registration](https://www.tide.co/company-registration/) | Open a business account and Tide will Register a limited company , all in one go. |
+| [With Jack](https://withjack.co.uk)                                    | With Jack is all about insurance for freelance creatives.                         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -330,6 +422,7 @@
 
 | Website                                                    | Description                                                                                          |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [Apache Cordova](https://cordova.apache.org)               | Mobile apps with HTML, CSS & JS                                                                      |
 | [Figma](https://www.figma.com)                             | Figma brings your teams together to design better products from start to finish.                     |
 | [Hashnode](https://hashnode.com)                           | Hashnode: Everything you need to start blogging as a developer!                                      |
 | [Is Apple Silicon Ready?](https://isapplesiliconready.com) | The complete guide for MacOS Apps Optimized for M1 Apple Silicon Macs.                               |
@@ -351,13 +444,39 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Tourism
+
+> Tourism related sites
+
+| Website                                                              | Description                                               |
+| -------------------------------------------------------------------- | --------------------------------------------------------- |
+| [Guide-ID](https://www.guide-id.com/)                                | An audio guide company                                    |
+| [Richborough Roman Fort Guide](https://mapmyvisit.com/listen/WQDQNR) | Audio Guide for English Heritage's Richborough Roman Fort |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Video Conferencing
+
+> Resources to improve video conferencing
+
+| Website                                      | Description                      |
+| -------------------------------------------- | -------------------------------- |
+| [Think Tap Work ](https://thinktapwork.com/) | Developers of Attendant for Zoom |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Village Halls
 
 > Resources for Village Halls
 
-| Website                                | Description                              |
-| -------------------------------------- | ---------------------------------------- |
-| [ACRE News](https://acre.org.uk/news/) | Action with Communities in Rural England |
+| Website                                                                    | Description                              |
+| -------------------------------------------------------------------------- | ---------------------------------------- |
+| [ACRE News](https://acre.org.uk/news/)                                     | Action with Communities in Rural England |
+| [Hampsthwaite Memorial Hall](http://www.hampsthwaite.org.uk/memorialhall/) | Hampsthwaite Memorial Hall, Yorkshire    |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -367,9 +486,10 @@
 
 > Voice over IP
 
-| Website                                 | Description     |
-| --------------------------------------- | --------------- |
-| [Clearly IP](https://www.clearlyip.com) | VoIP specialist |
+| Website                                 | Description                                                                                                |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [A&A](https://www.aa.net.uk/)           | For home, for business, or for your home office, A&A delivers high quality Internet connectivity and VoIP. |
+| [Clearly IP](https://www.clearlyip.com) | VoIP specialist                                                                                            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -379,10 +499,13 @@
 
 > General Web Development Topics
 
-| Website                                  | Description                                                                                                                                           |
-| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Web Page Test](https://webpagetest.org) | Test. Optimise. Repeat.                                                                                                                               |
-| [ffconf](https://ffconf.org)             | ffconf is a full day of eight carefully curated sessions for an audience that cares about the future of the web, and who want their ideas challenged. |
+| Website                                                                                 | Description                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [BuiltWith](https://builtwith.com)                                                      | Find out what websites are Built With                                                                                                                                                       |
+| [codeSTACKr roadmap 2021](https://courses.codestackr.com/ultimate-web-dev-roadmap-2021) | Ultimate Web Developer Roadmap 2021                                                                                                                                                         |
+| [ffconf](https://ffconf.org)                                                            | ffconf is a full day of eight carefully curated sessions for an audience that cares about the future of the web, and who want their ideas challenged.                                       |
+| [Schema.org](https://schema.org)                                                        | Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. |
+| [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
