@@ -43,7 +43,9 @@
 | Website                                                  | Description                                                                                                                                                             |
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Advent of Code](https://adventofcode.com)               | Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. |
+| [Codewars](https://www.codewars.com/)                    | Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata.                      |
 | [CS50x Harvard Course](https://cs50.harvard.edu/x/2021/) | CS50's Introduction to Computer Science                                                                                                                                 |
+| [First Timers Only](https://www.firsttimersonly.com)     | Get involved in Open Source and commit code to your first project!                                                                                                      |
 | [Frontend Mentor](https://www.frontendmentor.io)         | Improve your front-end coding skills by building real projects                                                                                                          |
 
 <div align="right">
@@ -77,15 +79,16 @@
 
 > Sites covering CSS Topics
 
-| Website                                                                          | Description                                                                             |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [Clippy](https://bennettfeely.com/clippy/)                                       | CSS clip-path maker.                                                                    |
-| [CSS Demystified](https://cssdemystified.com)                                    | CSS Course from Kevin Powell                                                            |
-| [CSS-Tricks](https://css-tricks.com)                                             | Free CSS tricks and some unique ideas for beginners and advanced.                       |
-| [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way |
-| [Kevin Powell](https://www.kevinpowell.co)                                       | Kevin is a CSS Evangelist                                                               |
-| [Style Stage](https://stylestage.dev)                                            | A modern CSS showcase styled by community contributions                                 |
-| [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/) | Building Website Headers with CSS Flexbox                                               |
+| Website                                                                          | Description                                                                                          |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [Clippy](https://bennettfeely.com/clippy/)                                       | CSS clip-path maker.                                                                                 |
+| [CSSBattle](https://cssbattle.dev)                                               | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code. |
+| [CSS Demystified](https://cssdemystified.com)                                    | CSS Course from Kevin Powell                                                                         |
+| [CSS-Tricks](https://css-tricks.com)                                             | Free CSS tricks and some unique ideas for beginners and advanced.                                    |
+| [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way              |
+| [Kevin Powell](https://www.kevinpowell.co)                                       | Kevin is a CSS Evangelist                                                                            |
+| [Style Stage](https://stylestage.dev)                                            | A modern CSS showcase styled by community contributions                                              |
+| [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/) | Building Website Headers with CSS Flexbox                                                            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -190,6 +193,7 @@
 | Website                                                  | Description                                                                                                                                                                                                            |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/) | Gatsby Cloud is a unified cloud platform specifically built for the Gatsby framework that combines a modern developer toolset and workflow with an optimized, global edge network for an unbeatable Gatsby experience. |
+| [SSLs.com](https://www.ssls.com)                         | Cheap SSL Certificates                                                                                                                                                                                                 |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -228,6 +232,7 @@
 | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [AWS Lambda guide](https://www.serverless.com/aws-lambda)                                                               | AWS Lambda - The Ultimate Guide                                                                                                                                       |
 | [AWS SDK for JavaScript](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/getting-started-nodejs.html) | Getting started in Node.js on AWS                                                                                                                                     |
+| [Clerk](https://www.clerk.dev)                                                                                          | More than authentication - Simple and beautiful user management                                                                                                       |
 | [Eleventy](https://www.11ty.dev)                                                                                        | Eleventy is a simpler static site generator.                                                                                                                          |
 | [Gatsby](https://www.gatsbyjs.com)                                                                                      | Gatsby provides development teams a frontend framework for creating rich, optimized websites and a cloud platform for delivering them on a blazing fast edge network. |
 | [Gatsby - Intro workshop 2021](https://intro-workshop-gatsbyconf-2021.gatsbyjs.io/)                                     | Getting Started with Gatsby Workshop from GatsbyCONF 2021                                                                                                             |
@@ -301,6 +306,7 @@
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | [BirdDog](https://bird-dog.tv)                                                       | World's Best NDI Tools                                                                                 |
 | [Decimator MD-LX](http://www.decimator.com/Products/MiniConverters/MD-LX/MD-LX.html) | HDMI / SDI Bi-Directional Convertor                                                                    |
+| [Epiphan Products](https://www.epiphan.com/products/)                                | Hardware encoders for live streaming, recording, and switching                                         |
 | [Sharelink](https://sharelink.tv)                                                    | Sharelink expands the capabilities of your Vidiu encoder to help you reach more viewers more reliably. |
 | [Here to Record](https://heretorecord.com)                                           | Everything you need to know about live-video production.                                               |
 
@@ -384,6 +390,7 @@
 | Website                                                                                                                        | Description                                       |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
 | [FaceID and TouchID in React Native](https://blog.logrocket.com/how-to-implement-faceid-and-touchid-in-react-native-and-expo/) | Using FaceID and TouchID in React Native and Expo |
+| [Top React Native Boilerplates](https://blog.logrocket.com/top-react-native-boilerplates-for-2021/)                            | Top React Native boilerplates for 2021            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -423,6 +430,7 @@
 | Website                                                    | Description                                                                                          |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [Apache Cordova](https://cordova.apache.org)               | Mobile apps with HTML, CSS & JS                                                                      |
+| [Bookstack](https://www.bookstackapp.com)                  | BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.     |
 | [Figma](https://www.figma.com)                             | Figma brings your teams together to design better products from start to finish.                     |
 | [Hashnode](https://hashnode.com)                           | Hashnode: Everything you need to start blogging as a developer!                                      |
 | [Is Apple Silicon Ready?](https://isapplesiliconready.com) | The complete guide for MacOS Apps Optimized for M1 Apple Silicon Macs.                               |
@@ -504,6 +512,7 @@
 | [BuiltWith](https://builtwith.com)                                                      | Find out what websites are Built With                                                                                                                                                       |
 | [codeSTACKr roadmap 2021](https://courses.codestackr.com/ultimate-web-dev-roadmap-2021) | Ultimate Web Developer Roadmap 2021                                                                                                                                                         |
 | [ffconf](https://ffconf.org)                                                            | ffconf is a full day of eight carefully curated sessions for an audience that cares about the future of the web, and who want their ideas challenged.                                       |
+| [Front End Practice](https://www.frontendpractice.com)                                  | Become a better frontend developer. Take your frontend skills to the next level by recreating real websites.                                                                                |
 | [Schema.org](https://schema.org)                                                        | Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. |
 | [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                     |
 
