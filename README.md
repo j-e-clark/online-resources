@@ -29,6 +29,7 @@
 - [Services - Business](#services---business)
 - [Software - Business](#software---business)
 - [Software - Development](#software---development)
+- [Software - macOS](#software---macos)
 - [Teaching](#teaching)
 - [Tourism](#tourism)
 - [Video Conferencing](#video-conferencing)
@@ -302,13 +303,21 @@
 
 > Software and Hardware for Livestreaming
 
-| Website                                                                              | Description                                                                                            |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| [BirdDog](https://bird-dog.tv)                                                       | World's Best NDI Tools                                                                                 |
-| [Decimator MD-LX](http://www.decimator.com/Products/MiniConverters/MD-LX/MD-LX.html) | HDMI / SDI Bi-Directional Convertor                                                                    |
-| [Epiphan Products](https://www.epiphan.com/products/)                                | Hardware encoders for live streaming, recording, and switching                                         |
-| [Sharelink](https://sharelink.tv)                                                    | Sharelink expands the capabilities of your Vidiu encoder to help you reach more viewers more reliably. |
-| [Here to Record](https://heretorecord.com)                                           | Everything you need to know about live-video production.                                               |
+| Website                                                                              | Description                                                                                                    |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| [Aaron Parecki](https://aaronpk.tv)                                                  | YouTuber talking about Livestreaming                                                                           |
+| [Aaron's 3D Printer](https://printer.aaronpk.tv)                                     | Aaron's 3D Printer stream                                                                                      |
+| [Aaron's Chat Links](https://aaronpk.tv/chat-links/)                                 | Aaron's Chat Links                                                                                             |
+| [Aaron's Timestamps](https://aaronpk.tv/timestamps/)                                 | Aaron's Timestamps                                                                                             |
+| [BirdDog](https://bird-dog.tv)                                                       | World's Best NDI Tools                                                                                         |
+| [Decimator MD-LX](http://www.decimator.com/Products/MiniConverters/MD-LX/MD-LX.html) | HDMI / SDI Bi-Directional Convertor                                                                            |
+| [Epiphan Products](https://www.epiphan.com/products/)                                | Hardware encoders for live streaming, recording, and switching                                                 |
+| [Here to Record](https://heretorecord.com)                                           | Everything you need to know about live-video production.                                                       |
+| [OBS.Ninja](https://obs.ninja)                                                       | Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software. |
+| [Owncast](https://owncast.online)                                                    | Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.   |
+| [Restream Studio](https://restream.io/studio)                                        | Everything you need for a successful live stream right in your browser.                                        |
+| [Sharelink](https://sharelink.tv)                                                    | Sharelink expands the capabilities of your Vidiu encoder to help you reach more viewers more reliably.         |
+| [StreamYard](https://streamyard.com)                                                 | The easiest way to create professional live streams                                                            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -440,6 +449,20 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Software - macOS
+
+> Resources for working with macOS
+
+| Website                                                    | Description                                                                 |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [Mac Power Users](https://macpowerusers.com/)              | Mac Power Users Podcast from Relay FM                                       |
+| [Text Case](https://textcase.app)                          | Automatable Text Transformations                                            |
+| [The macOS Automation Sites](https://macosxautomation.com) | “The power of the computer should reside in the hands of the one using it.” |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Teaching
 
 > Online courses
@@ -514,6 +537,7 @@
 | [ffconf](https://ffconf.org)                                                            | ffconf is a full day of eight carefully curated sessions for an audience that cares about the future of the web, and who want their ideas challenged.                                       |
 | [Front End Practice](https://www.frontendpractice.com)                                  | Become a better frontend developer. Take your frontend skills to the next level by recreating real websites.                                                                                |
 | [Schema.org](https://schema.org)                                                        | Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. |
+| [Structured Data Generator](https://simplifiedsearch.net/structured-data-generator/)    | Structured Data Generator from Simplified Search                                                                                                                                            |
 | [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                     |
 
 <div align="right">
