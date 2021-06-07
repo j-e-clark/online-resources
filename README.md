@@ -21,9 +21,9 @@
 - [Jobs](#jobs)
 - [Livestreaming](#livestreaming)
 - [Maker](#maker)
+- [Markdown](#markdown)
 - [Merchandise](#merchandise)
 - [Misc](#misc)
-- [Markdown](#markdown)
 - [Networking](#networking)
 - [React](#react)
 - [Services - Business](#services---business)
@@ -88,6 +88,7 @@
 | [CSS-Tricks](https://css-tricks.com)                                             | Free CSS tricks and some unique ideas for beginners and advanced.                                    |
 | [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way              |
 | [Kevin Powell](https://www.kevinpowell.co)                                       | Kevin is a CSS Evangelist                                                                            |
+| [Learn CSS](https://web.dev/learn/css/)                                          | Learn CSS from web.dev                                                                               |
 | [Style Stage](https://stylestage.dev)                                            | A modern CSS showcase styled by community contributions                                              |
 | [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/) | Building Website Headers with CSS Flexbox                                                            |
 
@@ -180,6 +181,7 @@
 | [Nord Pool Market Data](https://www.nordpoolgroup.com/Market-data1/#/n2ex/table)                                                                 | Nord Pool runs the leading power market in Europe, offering both day-ahead and intraday markets to its customers.                                                                                              |
 | [Octopus Energy](https://share.octopus.energy/lucky-moose-728)                                                                                   | In 2016, Octopus entered the market to disrupt the status quo with energy that's good for the planet, good for your wallet, and, honestly, good for your soul. \* Affiliate Link                               |
 | [Octopus Energy APIs](https://developer.octopus.energy/docs/api/#list-consumption-for-a-meter)                                                   | Octopus Energy REST API Documentation                                                                                                                                                                          |
+| [Octopus Energy User Guide](https://www.guylipman.com/octopus/octopus_guide.html)                                                                | Unofficial guide for Octopus users                                                                                                                                                                             |
 | [Smart Meters](https://www.smartme.co.uk/)                                                                                                       | Smart Meters: The full story                                                                                                                                                                                   |
 | [SMICoP](https://www.smicop.co.uk/)                                                                                                              | The Smart Meter Installation Code of Practice                                                                                                                                                                  |
 
@@ -219,6 +221,7 @@
 | Website                                                                     | Description                                                            |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | [AMP](https://amp.dev)                                                      | AMP is a web component framework to easily create user-first websites. |
+| [HTML head](https://htmlhead.dev)                                           | A simple guide to HTML \<head\> elements                               |
 | [HTML Headings](https://mdbootstrap.com/education/html/chapter-1-lesson-6/) | From a Bootstrap 4 tutorial                                            |
 
 <div align="right">
@@ -278,6 +281,7 @@
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [JavaScript: Novice to Ninja](https://www.sitepoint.com/premium/books/javascript-novice-to-ninja-2nd-edition/read/1) | As comprehensive as it can get. In 600+ pages you'll go from JavaScript Novice to Ninja. Covering everything from arrays, logic and loops, to functions, objects, DOM, events, testing and debugging, Ajax and more. It's everything you need to build with JavaScript. |
 | [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)    | A first splash into JavaScript                                                                                                                                                                                                                                          |
+| [More than console.log](https://dev.to/daryllukas/you-can-do-more-than-just-console-log-598a)                        | You can do more than just console.log()                                                                                                                                                                                                                                 |
 | [Snipcart - Javascript](https://snipcart.com/blog/javascript-beginner-intro-exercises)                               | JavaScript Beginners: Friendly Intro & Exercises                                                                                                                                                                                                                        |
 | [Why npm scripts?](https://css-tricks.com/why-npm-scripts/)                                                          | Article about using npm scripts as a build process and the command line in general.                                                                                                                                                                                     |
 
@@ -303,21 +307,27 @@
 
 > Software and Hardware for Livestreaming
 
-| Website                                                                              | Description                                                                                                    |
-| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| [Aaron Parecki](https://aaronpk.tv)                                                  | YouTuber talking about Livestreaming                                                                           |
-| [Aaron's 3D Printer](https://printer.aaronpk.tv)                                     | Aaron's 3D Printer stream                                                                                      |
-| [Aaron's Chat Links](https://aaronpk.tv/chat-links/)                                 | Aaron's Chat Links                                                                                             |
-| [Aaron's Timestamps](https://aaronpk.tv/timestamps/)                                 | Aaron's Timestamps                                                                                             |
-| [BirdDog](https://bird-dog.tv)                                                       | World's Best NDI Tools                                                                                         |
-| [Decimator MD-LX](http://www.decimator.com/Products/MiniConverters/MD-LX/MD-LX.html) | HDMI / SDI Bi-Directional Convertor                                                                            |
-| [Epiphan Products](https://www.epiphan.com/products/)                                | Hardware encoders for live streaming, recording, and switching                                                 |
-| [Here to Record](https://heretorecord.com)                                           | Everything you need to know about live-video production.                                                       |
-| [OBS.Ninja](https://obs.ninja)                                                       | Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software. |
-| [Owncast](https://owncast.online)                                                    | Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.   |
-| [Restream Studio](https://restream.io/studio)                                        | Everything you need for a successful live stream right in your browser.                                        |
-| [Sharelink](https://sharelink.tv)                                                    | Sharelink expands the capabilities of your Vidiu encoder to help you reach more viewers more reliably.         |
-| [StreamYard](https://streamyard.com)                                                 | The easiest way to create professional live streams                                                            |
+| Website                                                                              | Description                                                                                                                                                              |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Aaron Parecki](https://aaronpk.tv)                                                  | YouTuber talking about Livestreaming                                                                                                                                     |
+| [Aaron's 3D Printer](https://printer.aaronpk.tv)                                     | Aaron's 3D Printer stream                                                                                                                                                |
+| [Aaron's Chat Links](https://aaronpk.tv/chat-links/)                                 | Aaron's Chat Links                                                                                                                                                       |
+| [Aaron's Geolocation app](https://overland.p3k.app)                                  | Overland tracks your location and sends your data to a server of your choosing. The app will save data while you're offline, and send it to the server later in batches. |
+| [Aaron's Timestamps](https://aaronpk.tv/timestamps/)                                 | Aaron's Timestamps                                                                                                                                                       |
+| [BirdDog](https://bird-dog.tv)                                                       | World's Best NDI Tools                                                                                                                                                   |
+| [Decimator MD-LX](http://www.decimator.com/Products/MiniConverters/MD-LX/MD-LX.html) | HDMI / SDI Bi-Directional Convertor                                                                                                                                      |
+| [Epiphan Products](https://www.epiphan.com/products/)                                | Hardware encoders for live streaming, recording, and switching                                                                                                           |
+| [Here to Record](https://heretorecord.com)                                           | Everything you need to know about live-video production.                                                                                                                 |
+| [mimoLive](https://mimolive.com)                                                     | Professional Live Streaming for Mac                                                                                                                                      |
+| [NDI](https://www.ndi.tv)                                                            | Network Device Interface (NDI) is a high performance standard that allows anyone to use real time, ultra low latency video on existing IP video networks.                |
+| [VDO.Ninja](https://vdo.ninja)                                                       | Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.                                                           |
+| [Owncast](https://owncast.online)                                                    | Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software.                                                             |
+| [Restream Studio](https://restream.io/studio)                                        | Everything you need for a successful live stream right in your browser.                                                                                                  |
+| [Rev](https://www.rev.com)                                                           | Convert Audio & Video To Text                                                                                                                                            |
+| [Rivet](https://rivet.stream)                                                        | The Ultimate Broadcast Tool for Remote Streaming                                                                                                                         |
+| [Sharelink](https://sharelink.tv)                                                    | Sharelink expands the capabilities of your Vidiu encoder to help you reach more viewers more reliably.                                                                   |
+| [StreamYard](https://streamyard.com)                                                 | The easiest way to create professional live streams                                                                                                                      |
+| [Waves](https://www.waves.com)                                                       | Audio Plugins                                                                                                                                                            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -369,9 +379,11 @@
 
 > Software for Markdown
 
-| Website                           | Description                                                                                                      |
-| --------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [Dillinger](https://dillinger.io) | Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor. |
+| Website                                         | Description                                                                                                      |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [CommonMark Help](https://commonmark.org/help/) | A strongly defined, highly compatible specification of Markdown                                                  |
+| [Dillinger](https://dillinger.io)               | Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor. |
+| [readme.so](https://readme.so)                  | This simple editor allows you to quickly add and customise all the sections you need for your project's readme.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -396,10 +408,11 @@
 
 > Sites covering React
 
-| Website                                                                                                                        | Description                                       |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
-| [FaceID and TouchID in React Native](https://blog.logrocket.com/how-to-implement-faceid-and-touchid-in-react-native-and-expo/) | Using FaceID and TouchID in React Native and Expo |
-| [Top React Native Boilerplates](https://blog.logrocket.com/top-react-native-boilerplates-for-2021/)                            | Top React Native boilerplates for 2021            |
+| Website                                                                                                                          | Description                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [FaceID and TouchID in React Native](https://blog.logrocket.com/how-to-implement-faceid-and-touchid-in-react-native-and-expo/)   | Using FaceID and TouchID in React Native and Expo                                        |
+| [React Helmet](https://css-tricks.com/its-all-in-the-head-managing-the-document-head-of-a-react-powered-site-with-react-helmet/) | CSS Tricks article: Managing the Document Head of a React Powered Site With React Helmet |
+| [Top React Native Boilerplates](https://blog.logrocket.com/top-react-native-boilerplates-for-2021/)                              | Top React Native boilerplates for 2021                                                   |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -453,11 +466,12 @@
 
 > Resources for working with macOS
 
-| Website                                                    | Description                                                                 |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [Mac Power Users](https://macpowerusers.com/)              | Mac Power Users Podcast from Relay FM                                       |
-| [Text Case](https://textcase.app)                          | Automatable Text Transformations                                            |
-| [The macOS Automation Sites](https://macosxautomation.com) | “The power of the computer should reside in the hands of the one using it.” |
+| Website                                                                                  | Description                                                                 |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [Mac Power Users](https://macpowerusers.com/)                                            | Mac Power Users Podcast from Relay FM                                       |
+| [Text Case](https://textcase.app)                                                        | Automatable Text Transformations                                            |
+| [The macOS Automation Sites](https://macosxautomation.com)                               | “The power of the computer should reside in the hands of the one using it.” |
+| [Things 3 Keyboard Shortcuts](https://culturedcode.com/things/support/articles/2785159/) | You can control Things on your Mac and iPad with keyboard shortcuts.        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -532,11 +546,13 @@
 
 | Website                                                                                 | Description                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Aysenur Turk's Codepen](https://codepen.io/TurkAysenur)                                | Aysenur Turk, UI Developer                                                                                                                                                                  |
 | [BuiltWith](https://builtwith.com)                                                      | Find out what websites are Built With                                                                                                                                                       |
 | [codeSTACKr roadmap 2021](https://courses.codestackr.com/ultimate-web-dev-roadmap-2021) | Ultimate Web Developer Roadmap 2021                                                                                                                                                         |
 | [ffconf](https://ffconf.org)                                                            | ffconf is a full day of eight carefully curated sessions for an audience that cares about the future of the web, and who want their ideas challenged.                                       |
 | [Front End Practice](https://www.frontendpractice.com)                                  | Become a better frontend developer. Take your frontend skills to the next level by recreating real websites.                                                                                |
 | [Schema.org](https://schema.org)                                                        | Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. |
+| [Social Blade](https://socialblade.com)                                                 | Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!                                                                                                            |
 | [Structured Data Generator](https://simplifiedsearch.net/structured-data-generator/)    | Structured Data Generator from Simplified Search                                                                                                                                            |
 | [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                     |
 
