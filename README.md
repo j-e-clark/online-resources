@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Business](#business)
 - [Coding](#coding)
 - [Connectivity](#connectivity)
 - [COVID-19](#covid-19)
@@ -36,6 +37,20 @@
 - [Village Halls](#village-halls)
 - [VoIP](#voip)
 - [Web Development](#web-development)
+
+## Business
+
+> Business resources
+
+| Website                                                                    | Description                                               |
+| -------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage) | Get new skills for a digital world                        |
+| [Rebel Business School](https://therebelschool.com)                        | Rebel Business School                                     |
+| [Rebel Entrepreneur](https://www.choosefi.com/re-season-1/)                | Rebel Entrepreneur Podcast from the Rebel Business School |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Coding
 
@@ -87,8 +102,12 @@
 | [CSS Demystified](https://cssdemystified.com)                                    | CSS Course from Kevin Powell                                                                         |
 | [CSS-Tricks](https://css-tricks.com)                                             | Free CSS tricks and some unique ideas for beginners and advanced.                                    |
 | [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way              |
+| [Every Layout](https://every-layout.dev)                                         | Relearn CSS layout                                                                                   |
 | [Kevin Powell](https://www.kevinpowell.co)                                       | Kevin is a CSS Evangelist                                                                            |
 | [Learn CSS](https://web.dev/learn/css/)                                          | Learn CSS from web.dev                                                                               |
+| [Modern CSS Solutions](https://moderncss.dev)                                    | Modern CSS Solutions for Old CSS Problems                                                            |
+| [Piccalilli](https://piccalil.li)                                                | Andy publishes Tutorials and blog post around CSS and design systems.                                |
+| [SmollCSS](https://smolcss.dev)                                                  | Minimal snippets for modern CSS layouts and components                                               |
 | [Style Stage](https://stylestage.dev)                                            | A modern CSS showcase styled by community contributions                                              |
 | [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/) | Building Website Headers with CSS Flexbox                                                            |
 
@@ -545,17 +564,20 @@
 
 > General Web Development Topics
 
-| Website                                                                                 | Description                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Aysenur Turk's Codepen](https://codepen.io/TurkAysenur)                                | Aysenur Turk, UI Developer                                                                                                                                                                  |
-| [BuiltWith](https://builtwith.com)                                                      | Find out what websites are Built With                                                                                                                                                       |
-| [codeSTACKr roadmap 2021](https://courses.codestackr.com/ultimate-web-dev-roadmap-2021) | Ultimate Web Developer Roadmap 2021                                                                                                                                                         |
-| [ffconf](https://ffconf.org)                                                            | ffconf is a full day of eight carefully curated sessions for an audience that cares about the future of the web, and who want their ideas challenged.                                       |
-| [Front End Practice](https://www.frontendpractice.com)                                  | Become a better frontend developer. Take your frontend skills to the next level by recreating real websites.                                                                                |
-| [Schema.org](https://schema.org)                                                        | Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. |
-| [Social Blade](https://socialblade.com)                                                 | Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!                                                                                                            |
-| [Structured Data Generator](https://simplifiedsearch.net/structured-data-generator/)    | Structured Data Generator from Simplified Search                                                                                                                                            |
-| [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                     |
+| Website                                                                                 | Description                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Aysenur Turk's Codepen](https://codepen.io/TurkAysenur)                                | Aysenur Turk, UI Developer                                                                                                                                                                                      |
+| [Webbed Briefs](https://briefs.video)                                                   | WWEBBED BRIEFS are brief videos about the web, its technologies, and how to make the most of them. They’re packed with information, fun times(TM), and actual goats. Yes, it’s a vlog, but it isn’t on Youtube. |
+| [BuiltWith](https://builtwith.com)                                                      | Find out what websites are Built With                                                                                                                                                                           |
+| [codeSTACKr roadmap 2021](https://courses.codestackr.com/ultimate-web-dev-roadmap-2021) | Ultimate Web Developer Roadmap 2021                                                                                                                                                                             |
+| [ffconf](https://ffconf.org)                                                            | ffconf is a full day of eight carefully curated sessions for an audience that cares about the future of the web, and who want their ideas challenged.                                                           |
+| [Front End Practice](https://www.frontendpractice.com)                                  | Become a better frontend developer. Take your frontend skills to the next level by recreating real websites.                                                                                                    |
+| [Schema.org](https://schema.org)                                                        | Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.                     |
+| [Social Blade](https://socialblade.com)                                                 | Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!                                                                                                                                |
+| [Smashing Magazine](https://www.smashingmagazine.com)                                   | Online Magazine covering all things web.                                                                                                                                                                        |
+| [Structured Data Generator](https://simplifiedsearch.net/structured-data-generator/)    | Structured Data Generator from Simplified Search                                                                                                                                                                |
+| [The A11Y Project](https://www.a11yproject.com)                                         | The A11Y Project is a community-driven effort to make digital accessibility easier.                                                                                                                             |
+| [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                                         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
