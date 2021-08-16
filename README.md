@@ -31,6 +31,7 @@
 - [Software - Business](#software---business)
 - [Software - Development](#software---development)
 - [Software - macOS](#software---macos)
+- [SVG](#svg)
 - [Teaching](#teaching)
 - [Tourism](#tourism)
 - [Video Conferencing](#video-conferencing)
@@ -78,6 +79,10 @@
 | [Zen Internet - Service Status](https://status.zen.co.uk/)                   | Zen service status page.                                                                                                                                 |
 | [OpenReach - Call Waiting List](https://www.openreach.com/call-waiting-list) | Analogue phone lines will have reached the end of their life by 2025 – so we’re replacing them with greener, faster, and more reliable digital services. |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## COVID-19
 
 > COVID-19 Resources
@@ -100,6 +105,7 @@
 | [Clippy](https://bennettfeely.com/clippy/)                                       | CSS clip-path maker.                                                                                 |
 | [CSSBattle](https://cssbattle.dev)                                               | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code. |
 | [CSS Demystified](https://cssdemystified.com)                                    | CSS Course from Kevin Powell                                                                         |
+| [CSS In Real Life](https://css-irl.info)                                         | Tips, tricks and tutorials on the web’s most beautiful language.                                     |
 | [CSS-Tricks](https://css-tricks.com)                                             | Free CSS tricks and some unique ideas for beginners and advanced.                                    |
 | [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way              |
 | [Every Layout](https://every-layout.dev)                                         | Relearn CSS layout                                                                                   |
@@ -237,11 +243,13 @@
 
 > HTML and related
 
-| Website                                                                     | Description                                                            |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [AMP](https://amp.dev)                                                      | AMP is a web component framework to easily create user-first websites. |
-| [HTML head](https://htmlhead.dev)                                           | A simple guide to HTML \<head\> elements                               |
-| [HTML Headings](https://mdbootstrap.com/education/html/chapter-1-lesson-6/) | From a Bootstrap 4 tutorial                                            |
+| Website                                                                                                                                                                                               | Description                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [AMP](https://amp.dev)                                                                                                                                                                                | AMP is a web component framework to easily create user-first websites. |
+| [HTML head](https://htmlhead.dev)                                                                                                                                                                     | A simple guide to HTML \<head\> elements                               |
+| [HTML Headings](https://mdbootstrap.com/education/html/chapter-1-lesson-6/)                                                                                                                           | From a Bootstrap 4 tutorial                                            |
+| [HTMHell](https://www.htmhell.dev)                                                                                                                                                                    | A collection of bad practices in HTML, copied from real websites.      |
+| [Overview of the RenderingNG Architecture](https://developer.chrome.com/blog/renderingng-architecture/?utm_source=convertkit&utm_medium=email&utm_campaign=Changing+things+up+a+little%20-%206406383) | How Chrome’s rendering engine works.                                   |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -255,6 +263,7 @@
 | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [AWS Lambda guide](https://www.serverless.com/aws-lambda)                                                               | AWS Lambda - The Ultimate Guide                                                                                                                                       |
 | [AWS SDK for JavaScript](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/getting-started-nodejs.html) | Getting started in Node.js on AWS                                                                                                                                     |
+| [Bejamas](https://bejamas.io)                                                                                           | Jamstack Web Developers with useful resources                                                                                                                         |
 | [Clerk](https://www.clerk.dev)                                                                                          | More than authentication - Simple and beautiful user management                                                                                                       |
 | [Eleventy](https://www.11ty.dev)                                                                                        | Eleventy is a simpler static site generator.                                                                                                                          |
 | [Gatsby](https://www.gatsbyjs.com)                                                                                      | Gatsby provides development teams a frontend framework for creating rich, optimized websites and a cloud platform for delivering them on a blazing fast edge network. |
@@ -298,6 +307,8 @@
 
 | Website                                                                                                              | Description                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [codedamn](https://codedamn.com/learn/javascript-basics)                                                             | Learn JavaScript Basics for free                                                                                                                                                                                                                                        |
+| [freeCodeCamp](https://www.freecodecamp.org)                                                                         | Learn to code — for free. Build projects. Earn certifications.                                                                                                                                                                                                          |
 | [JavaScript: Novice to Ninja](https://www.sitepoint.com/premium/books/javascript-novice-to-ninja-2nd-edition/read/1) | As comprehensive as it can get. In 600+ pages you'll go from JavaScript Novice to Ninja. Covering everything from arrays, logic and loops, to functions, objects, DOM, events, testing and debugging, Ajax and more. It's everything you need to build with JavaScript. |
 | [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)    | A first splash into JavaScript                                                                                                                                                                                                                                          |
 | [More than console.log](https://dev.to/daryllukas/you-can-do-more-than-just-console-log-598a)                        | You can do more than just console.log()                                                                                                                                                                                                                                 |
@@ -497,6 +508,18 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## SVG
+
+> Scalable Vector Graphics
+
+| Website                                    | Description                                 |
+| ------------------------------------------ | ------------------------------------------- |
+| [Pattern Monster](https://pattern.monster) | Customizable SVG patterns for your projects |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Teaching
 
 > Online courses
@@ -564,20 +587,21 @@
 
 > General Web Development Topics
 
-| Website                                                                                 | Description                                                                                                                                                                                                     |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Aysenur Turk's Codepen](https://codepen.io/TurkAysenur)                                | Aysenur Turk, UI Developer                                                                                                                                                                                      |
-| [Webbed Briefs](https://briefs.video)                                                   | WWEBBED BRIEFS are brief videos about the web, its technologies, and how to make the most of them. They’re packed with information, fun times(TM), and actual goats. Yes, it’s a vlog, but it isn’t on Youtube. |
-| [BuiltWith](https://builtwith.com)                                                      | Find out what websites are Built With                                                                                                                                                                           |
-| [codeSTACKr roadmap 2021](https://courses.codestackr.com/ultimate-web-dev-roadmap-2021) | Ultimate Web Developer Roadmap 2021                                                                                                                                                                             |
-| [ffconf](https://ffconf.org)                                                            | ffconf is a full day of eight carefully curated sessions for an audience that cares about the future of the web, and who want their ideas challenged.                                                           |
-| [Front End Practice](https://www.frontendpractice.com)                                  | Become a better frontend developer. Take your frontend skills to the next level by recreating real websites.                                                                                                    |
-| [Schema.org](https://schema.org)                                                        | Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.                     |
-| [Social Blade](https://socialblade.com)                                                 | Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!                                                                                                                                |
-| [Smashing Magazine](https://www.smashingmagazine.com)                                   | Online Magazine covering all things web.                                                                                                                                                                        |
-| [Structured Data Generator](https://simplifiedsearch.net/structured-data-generator/)    | Structured Data Generator from Simplified Search                                                                                                                                                                |
-| [The A11Y Project](https://www.a11yproject.com)                                         | The A11Y Project is a community-driven effort to make digital accessibility easier.                                                                                                                             |
-| [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                                         |
+| Website                                                                                 | Description                                                                                                                                                                                                    |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Aysenur Turk's Codepen](https://codepen.io/TurkAysenur)                                | Aysenur Turk, UI Developer                                                                                                                                                                                     |
+| [Webbed Briefs](https://briefs.video)                                                   | WEBBED BRIEFS are brief videos about the web, its technologies, and how to make the most of them. They’re packed with information, fun times(TM), and actual goats. Yes, it’s a vlog, but it isn’t on Youtube. |
+| [BuiltWith](https://builtwith.com)                                                      | Find out what websites are Built With                                                                                                                                                                          |
+| [codeSTACKr roadmap 2021](https://courses.codestackr.com/ultimate-web-dev-roadmap-2021) | Ultimate Web Developer Roadmap 2021                                                                                                                                                                            |
+| [ffconf](https://ffconf.org)                                                            | ffconf is a full day of eight carefully curated sessions for an audience that cares about the future of the web, and who want their ideas challenged.                                                          |
+| [Front End Practice](https://www.frontendpractice.com)                                  | Become a better frontend developer. Take your frontend skills to the next level by recreating real websites.                                                                                                   |
+| [Robin Rendle](https://www.robinrendle.com)                                             | Robin ia a designer at Sentry, staff writer at CSS-Tricks, and his latest project is a newsletter about the web.                                                                                               |
+| [Schema.org](https://schema.org)                                                        | Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.                    |
+| [Social Blade](https://socialblade.com)                                                 | Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!                                                                                                                               |
+| [Smashing Magazine](https://www.smashingmagazine.com)                                   | Online Magazine covering all things web.                                                                                                                                                                       |
+| [Structured Data Generator](https://simplifiedsearch.net/structured-data-generator/)    | Structured Data Generator from Simplified Search                                                                                                                                                               |
+| [The A11Y Project](https://www.a11yproject.com)                                         | The A11Y Project is a community-driven effort to make digital accessibility easier.                                                                                                                            |
+| [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                                        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
