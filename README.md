@@ -43,11 +43,13 @@
 
 > Business resources
 
-| Website                                                                    | Description                                               |
-| -------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage) | Get new skills for a digital world                        |
-| [Rebel Business School](https://therebelschool.com)                        | Rebel Business School                                     |
-| [Rebel Entrepreneur](https://www.choosefi.com/re-season-1/)                | Rebel Entrepreneur Podcast from the Rebel Business School |
+| Website                                                                    | Description                                                               |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Fastmail](https://www.fastmail.com)                                       | Business email hosting for your custom domain                             |
+| [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage) | Get new skills for a digital world                                        |
+| [Mailu](https://mailu.io/)                                                 | Mailu is a simple yet full-featured mail server as a set of Docker images |
+| [Rebel Business School](https://therebelschool.com)                        | Rebel Business School                                                     |
+| [Rebel Entrepreneur](https://www.choosefi.com/re-season-1/)                | Rebel Entrepreneur Podcast from the Rebel Business School                 |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
