@@ -116,6 +116,7 @@
 | [Modern CSS Solutions](https://moderncss.dev)                                    | Modern CSS Solutions for Old CSS Problems                                                            |
 | [Piccalilli](https://piccalil.li)                                                | Andy publishes Tutorials and blog post around CSS and design systems.                                |
 | [SmollCSS](https://smolcss.dev)                                                  | Minimal snippets for modern CSS layouts and components                                               |
+| [Smooth Shadow](https://shadows.brumm.af)                                        | Make a smooth shadow. Inspired by https://tobiasahlin.com/blog/layered-smooth-box-shadows            |
 | [Style Stage](https://stylestage.dev)                                            | A modern CSS showcase styled by community contributions                                              |
 | [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/) | Building Website Headers with CSS Flexbox                                                            |
 
