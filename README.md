@@ -116,6 +116,7 @@
 | [Modern CSS Solutions](https://moderncss.dev)                                    | Modern CSS Solutions for Old CSS Problems                                                            |
 | [Piccalilli](https://piccalil.li)                                                | Andy publishes Tutorials and blog post around CSS and design systems.                                |
 | [SmollCSS](https://smolcss.dev)                                                  | Minimal snippets for modern CSS layouts and components                                               |
+| [Smooth Shadow](https://shadows.brumm.af)                                        | Make a smooth shadow. Inspired by https://tobiasahlin.com/blog/layered-smooth-box-shadows            |
 | [Style Stage](https://stylestage.dev)                                            | A modern CSS showcase styled by community contributions                                              |
 | [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/) | Building Website Headers with CSS Flexbox                                                            |
 
@@ -154,6 +155,8 @@
 
 | Website                                                                                     | Description                                                                           |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [Green Car Reports](https://www.greencarreports.com)                                        | Green Car Reports                                                                     |
+| [HEVRA](https://www.hevra.org.uk)                                                           | Hybrid and Electric Vehicle Repair Alliance                                           |
 | [IONIQ 5](https://www.hyundai.co.uk/new-cars/ioniq5)                                        | Hyundai IONIQ 5                                                                       |
 | [IONIQ 5 - EV Database](https://ev-database.uk/car/1477/Hyundai-IONIQ-5-Standard-Range-AWD) | Hyundai IONIQ 5 Standard Range AWD                                                    |
 | [Kia EV6](https://www.kia.com/uk/new-cars/ev6/)                                             | The Kia EV6 Electric Car                                                              |
@@ -169,9 +172,10 @@
 
 > Electronics related resources
 
-| Website                            | Description            |
-| ---------------------------------- | ---------------------- |
-| [Twinkly](https://www.twinkly.com) | Fancy Christmas Lights |
+| Website                                                 | Description                           |
+| ------------------------------------------------------- | ------------------------------------- |
+| [Flashything](https://www.etsy.com/uk/shop/Flashything) | Etsy shop offering Mini Supercomputer |
+| [Twinkly](https://www.twinkly.com)                      | Fancy Christmas Lights                |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -273,6 +277,7 @@
 | [GraphQL](https://graphql.org)                                                                                          | A query language for your API                                                                                                                                         |
 | [Hasura](https://hasura.io/learn/)                                                                                      | The Hasura GraphQL Engine provides GraphQL APIs over new or existing Postgres databases.                                                                              |
 | [Jamstack](https://jamstack.org)                                                                                        | The modern way to build Websites and Apps that delivers better performance                                                                                            |
+| [Jamstack Explorers](https://explorers.netlify.com)                                                                     | Learning platform from Netlify                                                                                                                                        |
 | [SendOwl](https://www.sendowl.com)                                                                                      | A better way to sell your digital products.                                                                                                                           |
 | [Strapi](https://strapi.io)                                                                                             | Strapi is the leading open-source headless CMS. It’s 100% Javascript, fully customizable and developer-first.                                                         |
 | [Strapi - Tutorials](https://strapi.io/tutorials)                                                                       | Follow along with one of our community tutorials to get you up and running with Strapi.                                                                               |
@@ -429,6 +434,7 @@
 | Website                                              | Description                                                                                                                 |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | [GNS3](https://www.gns3.com)                         | Build, Design and Test your network in a risk-free virtual environment and access the largest networking community to help. |
+| [The Homelab Wiki](https://thehomelab.wiki)          | Wiki from Jeremy at GeekedTV                                                                                                |
 | [Ubiquiti - Simplifying IT](https://www.ui.com)      | Prosumer level network equipment                                                                                            |
 | [Ubiquiti - Downloads](https://www.ui.com/download/) | Firmware downloads etc. for Ubiquiti equipment                                                                              |
 | [Ubiquiti - Community](https://community.ui.com)     | Official forums for Ubiquiti                                                                                                |
@@ -592,18 +598,22 @@
 | Website                                                                                 | Description                                                                                                                                                                                                    |
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Aysenur Turk's Codepen](https://codepen.io/TurkAysenur)                                | Aysenur Turk, UI Developer                                                                                                                                                                                     |
-| [Webbed Briefs](https://briefs.video)                                                   | WEBBED BRIEFS are brief videos about the web, its technologies, and how to make the most of them. They’re packed with information, fun times(TM), and actual goats. Yes, it’s a vlog, but it isn’t on Youtube. |
+| [Bruce Lawson](https://brucelawson.co.uk)                                               | Bruce Lawson's personal site                                                                                                                                                                                   |
 | [BuiltWith](https://builtwith.com)                                                      | Find out what websites are Built With                                                                                                                                                                          |
+| [CodeLand](https://codelandconf.com)                                                    | Coding Converence                                                                                                                                                                                              |
 | [codeSTACKr roadmap 2021](https://courses.codestackr.com/ultimate-web-dev-roadmap-2021) | Ultimate Web Developer Roadmap 2021                                                                                                                                                                            |
 | [ffconf](https://ffconf.org)                                                            | ffconf is a full day of eight carefully curated sessions for an audience that cares about the future of the web, and who want their ideas challenged.                                                          |
 | [Front End Practice](https://www.frontendpractice.com)                                  | Become a better frontend developer. Take your frontend skills to the next level by recreating real websites.                                                                                                   |
+| [LogRocket Blog](https://blog.logrocket.com/)                                           | Web dev blog from LogRocket                                                                                                                                                                                    |
 | [Robin Rendle](https://www.robinrendle.com)                                             | Robin ia a designer at Sentry, staff writer at CSS-Tricks, and his latest project is a newsletter about the web.                                                                                               |
 | [Schema.org](https://schema.org)                                                        | Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.                    |
 | [Social Blade](https://socialblade.com)                                                 | Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!                                                                                                                               |
 | [Smashing Magazine](https://www.smashingmagazine.com)                                   | Online Magazine covering all things web.                                                                                                                                                                       |
 | [Structured Data Generator](https://simplifiedsearch.net/structured-data-generator/)    | Structured Data Generator from Simplified Search                                                                                                                                                               |
 | [The A11Y Project](https://www.a11yproject.com)                                         | The A11Y Project is a community-driven effort to make digital accessibility easier.                                                                                                                            |
+| [Transform](https://transform.tools)                                                    | A polyglot web converter.                                                                                                                                                                                      |
 | [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                                        |
+| [Webbed Briefs](https://briefs.video)                                                   | WEBBED BRIEFS are brief videos about the web, its technologies, and how to make the most of them. They’re packed with information, fun times(TM), and actual goats. Yes, it’s a vlog, but it isn’t on Youtube. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
