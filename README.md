@@ -50,6 +50,7 @@
 | [Mailu](https://mailu.io/)                                                 | Mailu is a simple yet full-featured mail server as a set of Docker images |
 | [Rebel Business School](https://therebelschool.com)                        | Rebel Business School                                                     |
 | [Rebel Entrepreneur](https://www.choosefi.com/re-season-1/)                | Rebel Entrepreneur Podcast from the Rebel Business School                 |
+| [SavvyCal](https://savvycal.com)                                           | A scheduling tool                                                         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
