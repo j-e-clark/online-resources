@@ -34,6 +34,7 @@
 - [SVG](#svg)
 - [Teaching](#teaching)
 - [Tourism](#tourism)
+- [Usability](#usability)
 - [Video Conferencing](#video-conferencing)
 - [Village Halls](#village-halls)
 - [VoIP](#voip)
@@ -554,6 +555,19 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Usability
+
+> UI and UX design resources
+
+| Website                                   | Description                                                                                                                          |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [Usability Hub](https://usabilityhub.com) | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users. |
+| [UXMetrics](https://uxmetrics.com)        | Card sorting and tree testing made easy                                                                                              |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Video Conferencing
 
 > Resources to improve video conferencing
@@ -614,7 +628,6 @@
 | [The A11Y Project](https://www.a11yproject.com)                                         | The A11Y Project is a community-driven effort to make digital accessibility easier.                                                                                                                            |
 | [Transform](https://transform.tools)                                                    | A polyglot web converter.                                                                                                                                                                                      |
 | [UI Goodies](https://uigoodies.com)                                                     | The best resources for designers in one place.                                                                                                                                                                 |
-| [Usability Hub](https://usabilityhub.com)                                               | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users.                                                                           |
 | [/uses](https://uses.tech)                                                              | A list of /uses pages detailing developer setups, gear, software and configs.                                                                                                                                  |
 | [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                                        |
 | [Webbed Briefs](https://briefs.video)                                                   | WEBBED BRIEFS are brief videos about the web, its technologies, and how to make the most of them. They’re packed with information, fun times(TM), and actual goats. Yes, it’s a vlog, but it isn’t on Youtube. |
