@@ -62,13 +62,14 @@
 
 > Generic coding resources
 
-| Website                                                  | Description                                                                                                                                                             |
-| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Advent of Code](https://adventofcode.com)               | Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. |
-| [Codewars](https://www.codewars.com/)                    | Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata.                      |
-| [CS50x Harvard Course](https://cs50.harvard.edu/x/2021/) | CS50's Introduction to Computer Science                                                                                                                                 |
-| [First Timers Only](https://www.firsttimersonly.com)     | Get involved in Open Source and commit code to your first project!                                                                                                      |
-| [Frontend Mentor](https://www.frontendmentor.io)         | Improve your front-end coding skills by building real projects                                                                                                          |
+| Website                                                     | Description                                                                                                                                                             |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Advent of Code](https://adventofcode.com)                  | Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. |
+| [Codewars](https://www.codewars.com/)                       | Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata.                      |
+| [CS50x Harvard Course](https://cs50.harvard.edu/x/2021/)    | CS50's Introduction to Computer Science                                                                                                                                 |
+| [First Contributions](https://firstcontributions.github.io) | Make your first open source contribution in 5 minutes                                                                                                                   |
+| [First Timers Only](https://www.firsttimersonly.com)        | Get involved in Open Source and commit code to your first project!                                                                                                      |
+| [Frontend Mentor](https://www.frontendmentor.io)            | Improve your front-end coding skills by building real projects                                                                                                          |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
