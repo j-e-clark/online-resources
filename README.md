@@ -111,6 +111,7 @@
 | [Can I Include](https://caninclude.glitch.me)                                    | 'Can I Include' tool to help determine if one HTML tag can be included in another HTML tag           |
 | [Clippy](https://bennettfeely.com/clippy/)                                       | CSS clip-path maker.                                                                                 |
 | [CSSBattle](https://cssbattle.dev)                                               | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code. |
+| [CSS Colours](https://drafts.csswg.org/css-color/#named-colors)                  | List of CSS named colours.                                                                           |
 | [CSS Demystified](https://cssdemystified.com)                                    | CSS Course from Kevin Powell                                                                         |
 | [CSS In Real Life](https://css-irl.info)                                         | Tips, tricks and tutorials on the web’s most beautiful language.                                     |
 | [CSS-Tricks](https://css-tricks.com)                                             | Free CSS tricks and some unique ideas for beginners and advanced.                                    |
