@@ -8,6 +8,7 @@
 - [COVID-19](#covid-19)
 - [CSS](#css)
 - [Digital Signage](#digital-signage)
+- [Django](#django)
 - [Electric Car Charging](#electric-car-charging)
 - [Electric Cars](#electric-cars)
 - [Electronics](#electronics)
@@ -137,6 +138,21 @@
 | Website                       | Description                                   |
 | ----------------------------- | --------------------------------------------- |
 | [Kitcast](https://kitcast.tv) | Professional Quality Digital Signage Software |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Django
+
+> The web framework for perfectionists with deadlines.
+
+| Website                                                                                 | Description                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | This course picks up where CS50x leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. |
+| [DJ4E](https://www.dj4e.com/lessons)                                                    | Django for Everybody                                                                                                                                                                                |
+| [Django Documentation](https://docs.djangoproject.com/en/3.2/)                          | Everything you need to know about Django                                                                                                                                                            |
+| [MDN Web Docks](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)      | Django Web Framework (Python)                                                                                                                                                                       |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
