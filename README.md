@@ -17,6 +17,7 @@
 - [Hosting](#hosting)
 - [Hosting Blog Posts](#hosting-blog-posts)
 - [HTML](#html)
+- [Icons](#icons)
 - [JAMStack](#jamstack)
 - [JAMStack Blog Posts](#jamstack-blog-posts)
 - [JavaScript](#javascript)
@@ -115,13 +116,19 @@
 | [CSSBattle](https://cssbattle.dev)                                               | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code. |
 | [CSS Colours](https://drafts.csswg.org/css-color/#named-colors)                  | List of CSS named colours.                                                                           |
 | [CSS Demystified](https://cssdemystified.com)                                    | CSS Course from Kevin Powell                                                                         |
+| [CSS Gradient](https://cssgradient.io/)                                          | CSS Gradient generator                                                                               |
+| [CSS Grid Generator](https://cssgrid-generator.netlify.app/)                     | Generate a basic CSS Grid to get you started                                                         |
 | [CSS In Real Life](https://css-irl.info)                                         | Tips, tricks and tutorials on the web’s most beautiful language.                                     |
 | [CSS-Tricks](https://css-tricks.com)                                             | Free CSS tricks and some unique ideas for beginners and advanced.                                    |
 | [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way              |
 | [Every Layout](https://every-layout.dev)                                         | Relearn CSS layout                                                                                   |
+| [Cubic-Bezier](https://cubic-bezier.com)                                         | Cubic Bezier generator                                                                               |
+| [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/)          | Fancy border radius visual generator                                                                 |
 | [Kevin Powell](https://www.kevinpowell.co)                                       | Kevin is a CSS Evangelist                                                                            |
+| [Layoutit Grid](https://grid.layoutit.com/)                                      | Interactive CSS Grid generator                                                                       |
 | [Learn CSS](https://web.dev/learn/css/)                                          | Learn CSS from web.dev                                                                               |
 | [Modern CSS Solutions](https://moderncss.dev)                                    | Modern CSS Solutions for Old CSS Problems                                                            |
+| [Neumorphism.io](https://neumorphism.io)                                         | Generate Soft-UI CSS code                                                                            |
 | [Piccalilli](https://piccalil.li)                                                | Andy publishes Tutorials and blog post around CSS and design systems.                                |
 | [SmollCSS](https://smolcss.dev)                                                  | Minimal snippets for modern CSS layouts and components                                               |
 | [Smooth Shadow](https://shadows.brumm.af)                                        | Make a smooth shadow. Inspired by https://tobiasahlin.com/blog/layered-smooth-box-shadows            |
@@ -279,6 +286,19 @@
 | [HTML Headings](https://mdbootstrap.com/education/html/chapter-1-lesson-6/)                                                                                                                           | From a Bootstrap 4 tutorial                                            |
 | [HTMHell](https://www.htmhell.dev)                                                                                                                                                                    | A collection of bad practices in HTML, copied from real websites.      |
 | [Overview of the RenderingNG Architecture](https://developer.chrome.com/blog/renderingng-architecture/?utm_source=convertkit&utm_medium=email&utm_campaign=Changing+things+up+a+little%20-%206406383) | How Chrome’s rendering engine works.                                   |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Icons
+
+> Icon resources
+
+| Website                               | Description                                           |
+| ------------------------------------- | ----------------------------------------------------- |
+| [Flaticon](https://www.flaticon.com/) | Vector icons and stickers                             |
+| [Icons8](https://icons8.com/)         | Icons, illustrations, photos, music, and design tools |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -562,9 +582,13 @@
 
 > Scalable Vector Graphics
 
-| Website                                    | Description                                 |
-| ------------------------------------------ | ------------------------------------------- |
-| [Pattern Monster](https://pattern.monster) | Customizable SVG patterns for your projects |
+| Website                                                             | Description                                 |
+| ------------------------------------------------------------------- | ------------------------------------------- |
+| [Get Waves](https://getwaves.io/)                                   | SVG Wave generator                          |
+| [Loading.io](https://loading.io/)                                   | Animation made easy                         |
+| [Pattern Monster](https://pattern.monster)                          | Customizable SVG patterns for your projects |
+| [SVG Wave](https://svgwave.in/)                                     | Generate SVG Waves 🌊                       |
+| [SVG Wave Generator](https://www.softr.io/tools/svg-wave-generator) | Create Beautiful SVG Waves                  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
