@@ -124,6 +124,7 @@
 | [Every Layout](https://every-layout.dev)                                         | Relearn CSS layout                                                                                   |
 | [Cubic-Bezier](https://cubic-bezier.com)                                         | Cubic Bezier generator                                                                               |
 | [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/)          | Fancy border radius visual generator                                                                 |
+| [Jen Simmons' Lab](https://labs.jensimmons.com)                                  | The experimental layout lab of Jen Simmons                                                           |
 | [Kevin Powell](https://www.kevinpowell.co)                                       | Kevin is a CSS Evangelist                                                                            |
 | [Layoutit Grid](https://grid.layoutit.com/)                                      | Interactive CSS Grid generator                                                                       |
 | [Learn CSS](https://web.dev/learn/css/)                                          | Learn CSS from web.dev                                                                               |
