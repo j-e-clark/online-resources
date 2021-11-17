@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Blogging](#blogging)
 - [Business](#business)
 - [Coding](#coding)
 - [Connectivity](#connectivity)
@@ -42,6 +43,20 @@
 - [Village Halls](#village-halls)
 - [VoIP](#voip)
 - [Web Development](#web-development)
+
+## Blogging
+
+> Where to blog about coding
+
+| Website                          | Description                                           |
+| -------------------------------- | ----------------------------------------------------- |
+| [Dev.to](https://dev.to)         | DEV Community is a community of amazing developers    |
+| [hashnode](https://hashnode.com) | Everything you need to start blogging as a developer! |
+| [Medium](https://medium.com)     | Medium is a place to write, read, and connect         |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Business
 
