@@ -15,6 +15,7 @@
 - [Electronics](#electronics)
 - [Email](#email)
 - [Energy Market](#energy-market)
+- [Fonts](#fonts)
 - [Hosting](#hosting)
 - [Hosting Blog Posts](#hosting-blog-posts)
 - [HTML](#html)
@@ -261,6 +262,18 @@
 | [Octopus Energy User Guide](https://www.guylipman.com/octopus/octopus_guide.html)                                                                | Unofficial guide for Octopus users                                                                                                                                                                             |
 | [Smart Meters](https://www.smartme.co.uk/)                                                                                                       | Smart Meters: The full story                                                                                                                                                                                   |
 | [SMICoP](https://www.smicop.co.uk/)                                                                                                              | The Smart Meter Installation Code of Practice                                                                                                                                                                  |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Fonts
+
+> Fonts for websites
+
+| Website                                                      | Description                                                                                                                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Google Fonts Knowledge](https://fonts.google.com/knowledge) | A library of original guides to the world of typography, which the Google Fonts team is producing in collaboration with typographic experts from around the world. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
