@@ -63,15 +63,16 @@
 
 > Business resources
 
-| Website                                                                    | Description                                                               |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Fastmail](https://www.fastmail.com)                                       | Business email hosting for your custom domain                             |
-| [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage) | Get new skills for a digital world                                        |
-| [Mailu](https://mailu.io/)                                                 | Mailu is a simple yet full-featured mail server as a set of Docker images |
-| [Monkey Tower](http://www.monkeytower.co.uk)                               | Trailer Mounted Scaffold Tower or Scissor Lift Alternative                |
-| [Rebel Business School](https://therebelschool.com)                        | Rebel Business School                                                     |
-| [Rebel Entrepreneur](https://www.choosefi.com/re-season-1/)                | Rebel Entrepreneur Podcast from the Rebel Business School                 |
-| [SavvyCal](https://savvycal.com)                                           | A scheduling tool                                                         |
+| Website                                                                    | Description                                                                                                                                                |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [DAKboard](https://dakboard.com/)                                          | DAKboard is a customizable display for photos, calendar, news, weather and so much more! DAKboard makes it easy to get organized so you won’t miss a thing |
+| [Fastmail](https://www.fastmail.com)                                       | Business email hosting for your custom domain                                                                                                              |
+| [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage) | Get new skills for a digital world                                                                                                                         |
+| [Mailu](https://mailu.io/)                                                 | Mailu is a simple yet full-featured mail server as a set of Docker images                                                                                  |
+| [Monkey Tower](http://www.monkeytower.co.uk)                               | Trailer Mounted Scaffold Tower or Scissor Lift Alternative                                                                                                 |
+| [Rebel Business School](https://therebelschool.com)                        | Rebel Business School                                                                                                                                      |
+| [Rebel Entrepreneur](https://www.choosefi.com/re-season-1/)                | Rebel Entrepreneur Podcast from the Rebel Business School                                                                                                  |
+| [SavvyCal](https://savvycal.com)                                           | A scheduling tool                                                                                                                                          |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -86,6 +87,7 @@
 | [Advent of Code](https://adventofcode.com)                  | Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. |
 | [Codewars](https://www.codewars.com/)                       | Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata.                      |
 | [CS50x Harvard Course](https://cs50.harvard.edu/x/2021/)    | CS50's Introduction to Computer Science                                                                                                                                 |
+| [Edabit](https://edabit.com)                                | Learn to code with 10,000+ interactive challenges                                                                                                                       |
 | [First Contributions](https://firstcontributions.github.io) | Make your first open source contribution in 5 minutes                                                                                                                   |
 | [First Timers Only](https://www.firsttimersonly.com)        | Get involved in Open Source and commit code to your first project!                                                                                                      |
 | [Frontend Mentor](https://www.frontendmentor.io)            | Improve your front-end coding skills by building real projects                                                                                                          |
@@ -402,11 +404,12 @@
 
 > Software Development Jobs
 
-| Website                                  | Description                                                                                          |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Daily Jobs](https://daily.jobs)         | Job hunting with machine learning                                                                    |
-| [X-Team](https://x-team.com/developers/) | Join the most energizing community for developers and get long-term remote jobs with leading brands. |
-| [YunoJuno](https://www.yunojuno.com)     | The UK's largest marketplace of elite creative & tech freelancers                                    |
+| Website                                             | Description                                                                                         |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [Daily Jobs](https://daily.jobs)                    | Job hunting with machine learning                                                                   |
+| [Sitepoint Remote](https://www.sitepoint.com/jobs/) | Find remote jobs for developers, designers and digital professionals                                |
+| [X-Team](https://x-team.com/developers/)            | Join the most energizing community for developers and get long-term remote jobs with leading brands |
+| [YunoJuno](https://www.yunojuno.com)                | The UK's largest marketplace of elite creative & tech freelancers                                   |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -460,11 +463,12 @@
 
 > Merchandise suppliers
 
-| Website                                                                                | Description                                                           |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [Printful](https://www.printful.com)                                                   | Easy print-on-demand drop shipping and fulfillment warehouse services |
-| [Teemill](https://teemill.com)                                                         | Sell T-Shirts Online with a Teemill print-on-demand store.            |
-| [Trolley Coins](http://www.keyringsbadgesandbands.co.uk/?page=catalogue&categoryID=15) | Trolley Coins from Keyrings, Badges & Bands                           |
+| Website                                                                                | Description                                                                            |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Printful](https://www.printful.com)                                                   | Easy print-on-demand drop shipping and fulfillment warehouse services                  |
+| [Teemill](https://teemill.com)                                                         | Sell T-Shirts Online with a Teemill print-on-demand store.                             |
+| [Teespring](https://teespring.com/)                                                    | A simple solution for creating and selling products and help you monetise your content |
+| [Trolley Coins](http://www.keyringsbadgesandbands.co.uk/?page=catalogue&categoryID=15) | Trolley Coins from Keyrings, Badges & Bands                                            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -577,12 +581,14 @@
 
 > Resources for working with macOS
 
-| Website                                                                                  | Description                                                                 |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [Mac Power Users](https://macpowerusers.com/)                                            | Mac Power Users Podcast from Relay FM                                       |
-| [Text Case](https://textcase.app)                                                        | Automatable Text Transformations                                            |
-| [The macOS Automation Sites](https://macosxautomation.com)                               | “The power of the computer should reside in the hands of the one using it.” |
-| [Things 3 Keyboard Shortcuts](https://culturedcode.com/things/support/articles/2785159/) | You can control Things on your Mac and iPad with keyboard shortcuts.        |
+| Website                                                                                  | Description                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Cyberduck](https://cyberduck.io)                                                        | Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox |
+| [Mac Power Users](https://macpowerusers.com/)                                            | Mac Power Users Podcast from Relay FM                                                                                                                                                                        |
+| [Text Case](https://textcase.app)                                                        | Automatable Text Transformations                                                                                                                                                                             |
+| [The macOS Automation Sites](https://macosxautomation.com)                               | “The power of the computer should reside in the hands of the one using it.”                                                                                                                                  |
+| [Things 3 Keyboard Shortcuts](https://culturedcode.com/things/support/articles/2785159/) | You can control Things on your Mac and iPad with keyboard shortcuts.                                                                                                                                         |
+| [Titanium Software](https://titanium-software.fr/)                                       | Titanium Software provides operating system utilities for macOS                                                                                                                                              |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -720,6 +726,7 @@
 | [Social Blade](https://socialblade.com)                                                 | Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!                                                                                                                               |
 | [Smashing Magazine](https://www.smashingmagazine.com)                                   | Online Magazine covering all things web.                                                                                                                                                                       |
 | [Structured Data Generator](https://simplifiedsearch.net/structured-data-generator/)    | Structured Data Generator from Simplified Search                                                                                                                                                               |
+| [Study Web Development](https://studywebdevelopment.com)                                | Study Web Development is run by Kyle Prinsloo                                                                                                                                                                  |
 | [The A11Y Project](https://www.a11yproject.com)                                         | The A11Y Project is a community-driven effort to make digital accessibility easier.                                                                                                                            |
 | [Transform](https://transform.tools)                                                    | A polyglot web converter.                                                                                                                                                                                      |
 | [UI Goodies](https://uigoodies.com)                                                     | The best resources for designers in one place.                                                                                                                                                                 |
