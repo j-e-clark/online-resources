@@ -29,6 +29,7 @@
 - [Markdown](#markdown)
 - [Merchandise](#merchandise)
 - [Misc](#misc)
+- [Monitoring](#monitoring)
 - [Networking](#networking)
 - [React](#react)
 - [Services - Business](#services---business)
@@ -63,16 +64,17 @@
 
 > Business resources
 
-| Website                                                                    | Description                                                                                                                                                |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [DAKboard](https://dakboard.com/)                                          | DAKboard is a customizable display for photos, calendar, news, weather and so much more! DAKboard makes it easy to get organized so you won’t miss a thing |
-| [Fastmail](https://www.fastmail.com)                                       | Business email hosting for your custom domain                                                                                                              |
-| [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage) | Get new skills for a digital world                                                                                                                         |
-| [Mailu](https://mailu.io/)                                                 | Mailu is a simple yet full-featured mail server as a set of Docker images                                                                                  |
-| [Monkey Tower](http://www.monkeytower.co.uk)                               | Trailer Mounted Scaffold Tower or Scissor Lift Alternative                                                                                                 |
-| [Rebel Business School](https://therebelschool.com)                        | Rebel Business School                                                                                                                                      |
-| [Rebel Entrepreneur](https://www.choosefi.com/re-season-1/)                | Rebel Entrepreneur Podcast from the Rebel Business School                                                                                                  |
-| [SavvyCal](https://savvycal.com)                                           | A scheduling tool                                                                                                                                          |
+| Website                                                                     | Description                                                                                                                                                |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Big-Picture Productivity](https://peterakkies.net/freebies/bpp-essentials) | The essentials of Big-Picture Productivity; a free mini-course to act on your goals                                                                        |
+| [DAKboard](https://dakboard.com/)                                           | DAKboard is a customizable display for photos, calendar, news, weather and so much more! DAKboard makes it easy to get organized so you won’t miss a thing |
+| [Fastmail](https://www.fastmail.com)                                        | Business email hosting for your custom domain                                                                                                              |
+| [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)  | Get new skills for a digital world                                                                                                                         |
+| [Mailu](https://mailu.io/)                                                  | Mailu is a simple yet full-featured mail server as a set of Docker images                                                                                  |
+| [Monkey Tower](http://www.monkeytower.co.uk)                                | Trailer Mounted Scaffold Tower or Scissor Lift Alternative                                                                                                 |
+| [Rebel Business School](https://therebelschool.com)                         | Rebel Business School                                                                                                                                      |
+| [Rebel Entrepreneur](https://www.choosefi.com/re-season-1/)                 | Rebel Entrepreneur Podcast from the Rebel Business School                                                                                                  |
+| [SavvyCal](https://savvycal.com)                                            | A scheduling tool                                                                                                                                          |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -127,32 +129,36 @@
 
 > Sites covering CSS Topics
 
-| Website                                                                          | Description                                                                                          |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Can I Include](https://caninclude.glitch.me)                                    | 'Can I Include' tool to help determine if one HTML tag can be included in another HTML tag           |
-| [Clippy](https://bennettfeely.com/clippy/)                                       | CSS clip-path maker.                                                                                 |
-| [CSSBattle](https://cssbattle.dev)                                               | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code. |
-| [CSS Colours](https://drafts.csswg.org/css-color/#named-colors)                  | List of CSS named colours.                                                                           |
-| [CSS Demystified](https://cssdemystified.com)                                    | CSS Course from Kevin Powell                                                                         |
-| [CSS Gradient](https://cssgradient.io/)                                          | CSS Gradient generator                                                                               |
-| [CSS Grid Generator](https://cssgrid-generator.netlify.app/)                     | Generate a basic CSS Grid to get you started                                                         |
-| [CSS In Real Life](https://css-irl.info)                                         | Tips, tricks and tutorials on the web’s most beautiful language.                                     |
-| [CSS-Tricks](https://css-tricks.com)                                             | Free CSS tricks and some unique ideas for beginners and advanced.                                    |
-| [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way              |
-| [Every Layout](https://every-layout.dev)                                         | Relearn CSS layout                                                                                   |
-| [Cubic-Bezier](https://cubic-bezier.com)                                         | Cubic Bezier generator                                                                               |
-| [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/)          | Fancy border radius visual generator                                                                 |
-| [Jen Simmons' Lab](https://labs.jensimmons.com)                                  | The experimental layout lab of Jen Simmons                                                           |
-| [Kevin Powell](https://www.kevinpowell.co)                                       | Kevin is a CSS Evangelist                                                                            |
-| [Layoutit Grid](https://grid.layoutit.com/)                                      | Interactive CSS Grid generator                                                                       |
-| [Learn CSS](https://web.dev/learn/css/)                                          | Learn CSS from web.dev                                                                               |
-| [Modern CSS Solutions](https://moderncss.dev)                                    | Modern CSS Solutions for Old CSS Problems                                                            |
-| [Neumorphism.io](https://neumorphism.io)                                         | Generate Soft-UI CSS code                                                                            |
-| [Piccalilli](https://piccalil.li)                                                | Andy publishes Tutorials and blog post around CSS and design systems.                                |
-| [SmollCSS](https://smolcss.dev)                                                  | Minimal snippets for modern CSS layouts and components                                               |
-| [Smooth Shadow](https://shadows.brumm.af)                                        | Make a smooth shadow. Inspired by https://tobiasahlin.com/blog/layered-smooth-box-shadows            |
-| [Style Stage](https://stylestage.dev)                                            | A modern CSS showcase styled by community contributions                                              |
-| [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/) | Building Website Headers with CSS Flexbox                                                            |
+| Website                                                                                  | Description                                                                                          |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [A modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/)                       | A very tiny CSS reset from Andy at Piccalilli                                                        |
+| [Can I Include](https://caninclude.glitch.me)                                            | 'Can I Include' tool to help determine if one HTML tag can be included in another HTML tag           |
+| [Clippy](https://bennettfeely.com/clippy/)                                               | CSS clip-path maker.                                                                                 |
+| [CSSBattle](https://cssbattle.dev)                                                       | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code. |
+| [CSS Colours](https://drafts.csswg.org/css-color/#named-colors)                          | List of CSS named colours.                                                                           |
+| [CSS Demystified](https://cssdemystified.com)                                            | CSS Course from Kevin Powell                                                                         |
+| [CSS Gradient](https://cssgradient.io/)                                                  | CSS Gradient generator                                                                               |
+| [CSS Grid Generator](https://cssgrid-generator.netlify.app/)                             | Generate a basic CSS Grid to get you started                                                         |
+| [CSS In Real Life](https://css-irl.info)                                                 | Tips, tricks and tutorials on the web’s most beautiful language.                                     |
+| [CSS-Tricks](https://css-tricks.com)                                                     | Free CSS tricks and some unique ideas for beginners and advanced.                                    |
+| [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                        | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way              |
+| [CSS-Tricks - CSS Reset](https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/) | Notes on Josh Comeau’s Custom CSS Reset                                                              |
+| [Every Layout](https://every-layout.dev)                                                 | Relearn CSS layout                                                                                   |
+| [Cubic-Bezier](https://cubic-bezier.com)                                                 | Cubic Bezier generator                                                                               |
+| [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/)                  | Fancy border radius visual generator                                                                 |
+| [Jen Simmons' Lab](https://labs.jensimmons.com)                                          | The experimental layout lab of Jen Simmons                                                           |
+| [Kevin Powell](https://www.kevinpowell.co)                                               | Kevin is a CSS Evangelist - [Kevin's courses](https://courses.kevinpowell.co)                        |
+| [Layoutit Grid](https://grid.layoutit.com/)                                              | Interactive CSS Grid generator                                                                       |
+| [Learn CSS](https://web.dev/learn/css/)                                                  | Learn CSS from web.dev                                                                               |
+| [Modern CSS Solutions](https://moderncss.dev)                                            | Modern CSS Solutions for Old CSS Problems - A series by Stephanie Eckles                             |
+| [Neumorphism.io](https://neumorphism.io)                                                 | Generate Soft-UI CSS code                                                                            |
+| [Open Props](https://open-props.style)                                                   | Supercharged CSS variables                                                                           |
+| [Piccalilli](https://piccalil.li)                                                        | Andy publishes Tutorials and blog post around CSS and design systems.                                |
+| [SmollCSS](https://smolcss.dev)                                                          | Minimal snippets for modern CSS layouts and components                                               |
+| [Smooth Shadow](https://shadows.brumm.af)                                                | Make a smooth shadow. Inspired by https://tobiasahlin.com/blog/layered-smooth-box-shadows            |
+| [Style Stage](https://stylestage.dev)                                                    | A modern CSS showcase styled by community contributions                                              |
+| [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/)         | Building Website Headers with CSS Flexbox                                                            |
+| [Utopia](https://utopia.fyi)                                                             | Elegantly scale type and space without breakpoints                                                   |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -298,9 +304,10 @@
 
 > Web Hosting: from traditional to modern cloud
 
-| Website                                                             | Description                                        |
-| ------------------------------------------------------------------- | -------------------------------------------------- |
-| [Google Cloud vs AWS](https://kinsta.com/blog/google-cloud-vs-aws/) | Google Cloud vs AWS in 2021 (Comparing the Giants) |
+| Website                                                                                                                         | Description                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [Google Cloud vs AWS](https://kinsta.com/blog/google-cloud-vs-aws/)                                                             | Google Cloud vs AWS in 2021 (Comparing the Giants)                                                                               |
+| [How I Hosted my Strapi CMS Driven Website for Free](https://strapi.io/blog/how-i-hosted-my-strapi-cms-driven-website-for-free) | How [Chris Wray](https://chriswray.dev) built a modern Strapi powered website using completely free developer tools and services |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -372,6 +379,7 @@
 | [Headless Possibilities](https://www.boye-co.com/blog/2020/9/8/headless-possibilities)                                                      | In depth article on going headless                                                                                         |
 | [Hosting app on S3](https://www.sankalpjonna.com/posts/hosting-your-entire-web-application-using-s3-cloudfront)                             | Hosting your entire web application using S3 + CloudFront                                                                  |
 | [How to build an ecommerce site](https://blog.logrocket.com/how-to-build-an-ecommerce-site-with-strapi-vue-js-and-flutterwave/)             | How to build an ecommerce site with Strapi, Vue.js, and Flutterwave                                                        |
+| [Josh W Comeau](https://www.joshwcomeau.com)                                                                                                | Josh Comeau's Blog                                                                                                         |
 | [Low budget serverless scraping](https://thenewstack.io/how-daily-dev-built-a-low-budget-serverless-scraping-pipeline-for-online-articles/) | How Daily.Dev Built a Low-Budget Serverless Scraping Pipeline for Online Articles                                          |
 | [Trending on Github](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-3rd-july-2020-2agi)                     | 🚀10 Trending projects on GitHub for web developers - 3rd July 2020                                                        |
 | [Understanding Rendering in React ♻ ⚛️](https://dev.to/teo_garcia/understanding-rendering-in-react-i5i)                                     | Understanding Rendering in React ♻ ⚛️                                                                                      |
@@ -478,12 +486,25 @@
 
 > Any links I want to note but don't know where to put them!
 
-| Website                                                                                                          | Description                                                                               |
-| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Amazon First Reads](https://www.amazon.co.uk/firstreads)                                                        | Amazon First Reads                                                                        |
-| [Apple TV Development](https://www.programmersought.com/article/13675638712/)                                    | How to unlock detailed streaming statistics on Apple TV                                   |
-| [Amazing Waterfowl Facts](https://www.ducks.org/conservation/waterfowl-research-science/amazing-waterfowl-facts) | Incredible information from the world of waterfowl!                                       |
-| [Clever Surround Sound](https://9to5mac.com/2020/08/12/surround-sound-speakers-for-your-mac/)                    | Clever BBC feature lets you use iPhones and iPads as surround-sound speakers for your Mac |
+| Website                                                                                                          | Description                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Amazon First Reads](https://www.amazon.co.uk/firstreads)                                                        | Amazon First Reads                                                                                                                                                                                                |
+| [Apple TV Development](https://www.programmersought.com/article/13675638712/)                                    | How to unlock detailed streaming statistics on Apple TV                                                                                                                                                           |
+| [Amazing Waterfowl Facts](https://www.ducks.org/conservation/waterfowl-research-science/amazing-waterfowl-facts) | Incredible information from the world of waterfowl!                                                                                                                                                               |
+| [Clever Surround Sound](https://9to5mac.com/2020/08/12/surround-sound-speakers-for-your-mac/)                    | Clever BBC feature lets you use iPhones and iPads as surround-sound speakers for your Mac                                                                                                                         |
+| [Jurassic Time](https://jurassictime.wixsite.com/memoirs)                                                        | Jurassic Time unearths the vast, long-forgotten ideas and stories of Jurassic Park through exclusive memoirs and other content while paying ultimate homage to the legendary dreamer himself: John Parker Hammond |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Monitoring
+
+> Services for checking and monitoring web technologies
+
+| Website                                    | Description                   |
+| ------------------------------------------ | ----------------------------- |
+| [Fast or Slow](https://www.fastorslow.com) | Global website speed profiler |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -510,6 +531,7 @@
 | Website                                              | Description                                                                                                                 |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | [GNS3](https://www.gns3.com)                         | Build, Design and Test your network in a risk-free virtual environment and access the largest networking community to help. |
+| [Marius Hosting](https://mariushosting.com)          | Blog by Marius Bogdan Lixandru focussing on Synology                                                                        |
 | [The Homelab Wiki](https://thehomelab.wiki)          | Wiki from Jeremy at GeekedTV                                                                                                |
 | [Ubiquiti - Simplifying IT](https://www.ui.com)      | Prosumer level network equipment                                                                                            |
 | [Ubiquiti - Downloads](https://www.ui.com/download/) | Firmware downloads etc. for Ubiquiti equipment                                                                              |
@@ -555,6 +577,8 @@
 | [Atlassian - Confluence](https://www.atlassian.com/software/confluence) | Confluence is your remote-friendly team workspace where knowledge and collaboration meet.                                                                                              |
 | [Doodly](https://www.doodly.com)                                        | Doodly Is The First And Only Whiteboard Animation Software To Allow Anyone, Regardless Of Technical Or Design Skills To Create Professional, Realistic Whiteboard Videos In Minutes... |
 | [FreeAgent](https://www.freeagent.com)                                  | Award-winning accounting software for small businesses.                                                                                                                                |
+| [Good Reports](http://goodreports.com)                                  | Recommendations for genuinely good, helpful, non-toxic alternatives to Big Tech platforms                                                                                              |
+| [switching.software](https://switching.software)                        | Ethical, easy-to-use and privacy-conscious alternatives to well-known software                                                                                                         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -633,9 +657,10 @@
 
 > Online courses
 
-| Website                          | Description                                                                                        |
-| -------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [Pirple](https://www.pirple.com) | Each course consists of video-lectures, homework assignments, quizzes, projects, and a final exam. |
+| Website                          | Description                                                                                                                                             |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [exercism](https://exercism.org) | Develop fluency in 55 programming languages with a unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever. |
+| [Pirple](https://www.pirple.com) | Each course consists of video-lectures, homework assignments, quizzes, projects, and a final exam.                                                      |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -721,6 +746,7 @@
 | [Letters to a new Developer](https://letterstoanewdeveloper.com)                        | What Dan Moore wishes he had known when starting his development career                                                                                                                                        |
 | [LogRocket Blog](https://blog.logrocket.com/)                                           | Web dev blog from LogRocket                                                                                                                                                                                    |
 | [Parameters and Arguments](https://typealias.com/guides/parameters-arguments/)          | An Easy Way to Remember the Difference                                                                                                                                                                         |
+| [Pro Git](https://git-scm.com/book/en/v2)                                               | The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress                                                                                                                        |
 | [Robin Rendle](https://www.robinrendle.com)                                             | Robin ia a designer at Sentry, staff writer at CSS-Tricks, and his latest project is a newsletter about the web.                                                                                               |
 | [Schema.org](https://schema.org)                                                        | Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.                    |
 | [Social Blade](https://socialblade.com)                                                 | Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!                                                                                                                               |
@@ -729,6 +755,7 @@
 | [Study Web Development](https://studywebdevelopment.com)                                | Study Web Development is run by Kyle Prinsloo                                                                                                                                                                  |
 | [The A11Y Project](https://www.a11yproject.com)                                         | The A11Y Project is a community-driven effort to make digital accessibility easier.                                                                                                                            |
 | [Transform](https://transform.tools)                                                    | A polyglot web converter.                                                                                                                                                                                      |
+| [Traversy Media Content Guide](https://traversymedia.com/guide)                         | A categorised map of crash courses, projects and paid courses by Traversy Media                                                                                                                                |
 | [UI Goodies](https://uigoodies.com)                                                     | The best resources for designers in one place.                                                                                                                                                                 |
 | [/uses](https://uses.tech)                                                              | A list of /uses pages detailing developer setups, gear, software and configs.                                                                                                                                  |
 | [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                                        |
