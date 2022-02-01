@@ -64,17 +64,21 @@
 
 > Business resources
 
-| Website                                                                     | Description                                                                                                                                                |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Big-Picture Productivity](https://peterakkies.net/freebies/bpp-essentials) | The essentials of Big-Picture Productivity; a free mini-course to act on your goals                                                                        |
-| [DAKboard](https://dakboard.com/)                                           | DAKboard is a customizable display for photos, calendar, news, weather and so much more! DAKboard makes it easy to get organized so you won’t miss a thing |
-| [Fastmail](https://www.fastmail.com)                                        | Business email hosting for your custom domain                                                                                                              |
-| [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)  | Get new skills for a digital world                                                                                                                         |
-| [Mailu](https://mailu.io/)                                                  | Mailu is a simple yet full-featured mail server as a set of Docker images                                                                                  |
-| [Monkey Tower](http://www.monkeytower.co.uk)                                | Trailer Mounted Scaffold Tower or Scissor Lift Alternative                                                                                                 |
-| [Rebel Business School](https://therebelschool.com)                         | Rebel Business School                                                                                                                                      |
-| [Rebel Entrepreneur](https://www.choosefi.com/re-season-1/)                 | Rebel Entrepreneur Podcast from the Rebel Business School                                                                                                  |
-| [SavvyCal](https://savvycal.com)                                            | A scheduling tool                                                                                                                                          |
+| Website                                                                                               | Description                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Amazon Associates](https://affiliate-program.amazon.co.uk)                                           | The Amazon Associate Program helps content creators, publishers and bloggers monetise their traffic.                                                       |
+| [Big-Picture Productivity](https://peterakkies.net/freebies/bpp-essentials)                           | The essentials of Big-Picture Productivity; a free mini-course to act on your goals                                                                        |
+| [DAKboard](https://dakboard.com/)                                                                     | DAKboard is a customizable display for photos, calendar, news, weather and so much more! DAKboard makes it easy to get organized so you won’t miss a thing |
+| [Fastmail](https://www.fastmail.com)                                                                  | Business email hosting for your custom domain                                                                                                              |
+| [Freelance Mastery](https://freelancemastery.dev)                                                     | Freelance Mastery for Developers by Brad Traversy and Kyle Prinsloo                                                                                        |
+| [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)                            | Get new skills for a digital world                                                                                                                         |
+| [gov.uk - trade mark search](https://www.gov.uk/search-for-trademark)                                 | UK governemnt - Search for a trade mark                                                                                                                    |
+| [Mailu](https://mailu.io/)                                                                            | Mailu is a simple yet full-featured mail server as a set of Docker images                                                                                  |
+| [Monkey Tower](http://www.monkeytower.co.uk)                                                          | Trailer Mounted Scaffold Tower or Scissor Lift Alternative                                                                                                 |
+| [Rebel Business School](https://therebelschool.com)                                                   | Rebel Business School                                                                                                                                      |
+| [Rebel Entrepreneur](https://www.choosefi.com/re-season-1/)                                           | Rebel Entrepreneur Podcast from the Rebel Business School                                                                                                  |
+| [SavvyCal](https://savvycal.com)                                                                      | A scheduling tool                                                                                                                                          |
+| [Self assessment for beginners](https://quickbooks.intuit.com/uk/blog/self-assessment-for-beginners/) | Quickbooks blog: How to Pay Self Assessment Tax                                                                                                            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -84,15 +88,17 @@
 
 > Generic coding resources
 
-| Website                                                     | Description                                                                                                                                                             |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Advent of Code](https://adventofcode.com)                  | Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. |
-| [Codewars](https://www.codewars.com/)                       | Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata.                      |
-| [CS50x Harvard Course](https://cs50.harvard.edu/x/2021/)    | CS50's Introduction to Computer Science                                                                                                                                 |
-| [Edabit](https://edabit.com)                                | Learn to code with 10,000+ interactive challenges                                                                                                                       |
-| [First Contributions](https://firstcontributions.github.io) | Make your first open source contribution in 5 minutes                                                                                                                   |
-| [First Timers Only](https://www.firsttimersonly.com)        | Get involved in Open Source and commit code to your first project!                                                                                                      |
-| [Frontend Mentor](https://www.frontendmentor.io)            | Improve your front-end coding skills by building real projects                                                                                                          |
+| Website                                                                                                           | Description                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Advent of Code](https://adventofcode.com)                                                                        | Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. |
+| [Codementor](https://www.codementor.io)                                                                           | Find a developer for live mentorship & freelance projects                                                                                                               |
+| [Codewars](https://www.codewars.com/)                                                                             | Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata.                      |
+| [CS50x Harvard Course](https://cs50.harvard.edu/x/2021/)                                                          | CS50's Introduction to Computer Science                                                                                                                                 |
+| [Edabit](https://edabit.com)                                                                                      | Learn to code with 10,000+ interactive challenges                                                                                                                       |
+| [First Contributions](https://firstcontributions.github.io)                                                       | Make your first open source contribution in 5 minutes                                                                                                                   |
+| [First Timers Only](https://www.firsttimersonly.com)                                                              | Get involved in Open Source and commit code to your first project!                                                                                                      |
+| [Frontend Mentor](https://www.frontendmentor.io)                                                                  | Improve your front-end coding skills by building real projects                                                                                                          |
+| [Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) | Medium post - Developers: How to Overcome Imposter Syndrome                                                                                                             |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -397,6 +403,7 @@
 | Website                                                                                                              | Description                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [codedamn](https://codedamn.com/learn/javascript-basics)                                                             | Learn JavaScript Basics for free                                                                                                                                                                                                                                        |
+| [Eloquent Javascript](https://eloquentjavascript.net)                                                                | This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own [paperback copy](https://www.amazon.co.uk/dp/1593279507/). Written by Marijn Haverbeke.                                                      |
 | [freeCodeCamp](https://www.freecodecamp.org)                                                                         | Learn to code — for free. Build projects. Earn certifications.                                                                                                                                                                                                          |
 | [JavaScript: Novice to Ninja](https://www.sitepoint.com/premium/books/javascript-novice-to-ninja-2nd-edition/read/1) | As comprehensive as it can get. In 600+ pages you'll go from JavaScript Novice to Ninja. Covering everything from arrays, logic and loops, to functions, objects, DOM, events, testing and debugging, Ajax and more. It's everything you need to build with JavaScript. |
 | [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)    | A first splash into JavaScript                                                                                                                                                                                                                                          |
@@ -545,11 +552,12 @@
 
 > Sites covering React
 
-| Website                                                                                                                          | Description                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [FaceID and TouchID in React Native](https://blog.logrocket.com/how-to-implement-faceid-and-touchid-in-react-native-and-expo/)   | Using FaceID and TouchID in React Native and Expo                                        |
-| [React Helmet](https://css-tricks.com/its-all-in-the-head-managing-the-document-head-of-a-react-powered-site-with-react-helmet/) | CSS Tricks article: Managing the Document Head of a React Powered Site With React Helmet |
-| [Top React Native Boilerplates](https://blog.logrocket.com/top-react-native-boilerplates-for-2021/)                              | Top React Native boilerplates for 2021                                                   |
+| Website                                                                                                                          | Description                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [FaceID and TouchID in React Native](https://blog.logrocket.com/how-to-implement-faceid-and-touchid-in-react-native-and-expo/)   | Using FaceID and TouchID in React Native and Expo                                               |
+| [React Helmet](https://css-tricks.com/its-all-in-the-head-managing-the-document-head-of-a-react-powered-site-with-react-helmet/) | CSS Tricks article: Managing the Document Head of a React Powered Site With React Helmet        |
+| [Radix](https://www.radix-ui.com)                                                                                                | Unstyled, accessible components for building high‑quality design systems and web apps in React. |
+| [Top React Native Boilerplates](https://blog.logrocket.com/top-react-native-boilerplates-for-2021/)                              | Top React Native boilerplates for 2021                                                          |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -592,6 +600,7 @@
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [Apache Cordova](https://cordova.apache.org)               | Mobile apps with HTML, CSS & JS                                                                      |
 | [Bookstack](https://www.bookstackapp.com)                  | BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.     |
+| [fathom](https://usefathom.com)                            | Website analytics without compromise                                                                 |
 | [Figma](https://www.figma.com)                             | Figma brings your teams together to design better products from start to finish.                     |
 | [Hashnode](https://hashnode.com)                           | Hashnode: Everything you need to start blogging as a developer!                                      |
 | [Is Apple Silicon Ready?](https://isapplesiliconready.com) | The complete guide for MacOS Apps Optimized for M1 Apple Silicon Macs.                               |
