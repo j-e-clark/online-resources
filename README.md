@@ -596,15 +596,16 @@
 
 > Software for Software Development
 
-| Website                                                    | Description                                                                                          |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Apache Cordova](https://cordova.apache.org)               | Mobile apps with HTML, CSS & JS                                                                      |
-| [Bookstack](https://www.bookstackapp.com)                  | BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.     |
-| [fathom](https://usefathom.com)                            | Website analytics without compromise                                                                 |
-| [Figma](https://www.figma.com)                             | Figma brings your teams together to design better products from start to finish.                     |
-| [Hashnode](https://hashnode.com)                           | Hashnode: Everything you need to start blogging as a developer!                                      |
-| [Is Apple Silicon Ready?](https://isapplesiliconready.com) | The complete guide for MacOS Apps Optimized for M1 Apple Silicon Macs.                               |
-| [Replit](https://replit.com)                               | A free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup. |
+| Website                                                    | Description                                                                                               |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [Apache Cordova](https://cordova.apache.org)               | Mobile apps with HTML, CSS & JS                                                                           |
+| [Bookstack](https://www.bookstackapp.com)                  | BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.          |
+| [DistroWatch](https://distrowatch.com)                     | A website dedicated to talking about, reviewing and keeping up to date with open source operating systems |
+| [fathom](https://usefathom.com)                            | Website analytics without compromise                                                                      |
+| [Figma](https://www.figma.com)                             | Figma brings your teams together to design better products from start to finish.                          |
+| [Hashnode](https://hashnode.com)                           | Hashnode: Everything you need to start blogging as a developer!                                           |
+| [Is Apple Silicon Ready?](https://isapplesiliconready.com) | The complete guide for MacOS Apps Optimized for M1 Apple Silicon Macs.                                    |
+| [Replit](https://replit.com)                               | A free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup.      |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
