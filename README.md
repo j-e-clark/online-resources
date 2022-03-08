@@ -156,6 +156,7 @@
 | [Every Layout](https://every-layout.dev)                                                 | Relearn CSS layout                                                                                  |
 | [Cubic-Bezier](https://cubic-bezier.com)                                                 | Cubic Bezier generator                                                                              |
 | [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/)                  | Fancy border radius visual generator                                                                |
+| [Huemint](https://huemint.com)                                                           | Huemint uses machine learning to create unique color schemes for your brand, website or graphic     |
 | [Jen Simmons' Lab](https://labs.jensimmons.com)                                          | The experimental layout lab of Jen Simmons                                                          |
 | [Kevin Powell](https://www.kevinpowell.co)                                               | Kevin is a CSS Evangelist - [Kevin's courses](https://courses.kevinpowell.co)                       |
 | [Layoutit Grid](https://grid.layoutit.com/)                                              | Interactive CSS Grid generator                                                                      |
