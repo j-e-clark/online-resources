@@ -135,41 +135,42 @@
 
 > Sites covering CSS Topics
 
-| Website                                                                                  | Description                                                                                         |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [A modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/)                       | A very tiny CSS reset from Andy at Piccalilli                                                       |
-| [Can I Include](https://caninclude.glitch.me)                                            | 'Can I Include' tool to help determine if one HTML tag can be included in another HTML tag          |
-| [Clippy](https://bennettfeely.com/clippy/)                                               | CSS clip-path maker                                                                                 |
-| [Color.review](https://color.review)                                                     | What you need to know about colours & accessibility                                                 |
-| [ColorBox](https://colorbox.io)                                                          | ColorBox by [@kvyn\_](https://twitter.com/kvyn_)                                                    |
-| [Components.ai](https://components.ai)                                                   | A growing set of generative components for UI and graphic design                                    |
-| [Coolors](https://coolors.co)                                                            | The super fast colour palettes generator                                                            |
-| [CSSBattle](https://cssbattle.dev)                                                       | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code |
-| [CSS Colours](https://drafts.csswg.org/css-color/#named-colors)                          | List of CSS named colours                                                                           |
-| [CSS Demystified](https://cssdemystified.com)                                            | CSS Course from Kevin Powell                                                                        |
-| [CSS Gradient](https://cssgradient.io/)                                                  | CSS Gradient generator                                                                              |
-| [CSS Grid Generator](https://cssgrid-generator.netlify.app/)                             | Generate a basic CSS Grid to get you started                                                        |
-| [CSS In Real Life](https://css-irl.info)                                                 | Tips, tricks and tutorials on the web’s most beautiful language.                                    |
-| [CSS-Tricks](https://css-tricks.com)                                                     | Free CSS tricks and some unique ideas for beginners and advanced.                                   |
-| [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                        | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way             |
-| [CSS-Tricks - CSS Reset](https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/) | Notes on Josh Comeau’s Custom CSS Reset                                                             |
-| [Every Layout](https://every-layout.dev)                                                 | Relearn CSS layout                                                                                  |
-| [Cubic-Bezier](https://cubic-bezier.com)                                                 | Cubic Bezier generator                                                                              |
-| [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/)                  | Fancy border radius visual generator                                                                |
-| [Huemint](https://huemint.com)                                                           | Huemint uses machine learning to create unique color schemes for your brand, website or graphic     |
-| [Jen Simmons' Lab](https://labs.jensimmons.com)                                          | The experimental layout lab of Jen Simmons                                                          |
-| [Kevin Powell](https://www.kevinpowell.co)                                               | Kevin is a CSS Evangelist - [Kevin's courses](https://courses.kevinpowell.co)                       |
-| [Layoutit Grid](https://grid.layoutit.com/)                                              | Interactive CSS Grid generator                                                                      |
-| [Learn CSS](https://web.dev/learn/css/)                                                  | Learn CSS from web.dev                                                                              |
-| [Modern CSS Solutions](https://moderncss.dev)                                            | Modern CSS Solutions for Old CSS Problems - A series by Stephanie Eckles                            |
-| [Neumorphism.io](https://neumorphism.io)                                                 | Generate Soft-UI CSS code                                                                           |
-| [Open Props](https://open-props.style)                                                   | Supercharged CSS variables                                                                          |
-| [Piccalilli](https://piccalil.li)                                                        | Andy publishes Tutorials and blog post around CSS and design systems.                               |
-| [SmollCSS](https://smolcss.dev)                                                          | Minimal snippets for modern CSS layouts and components                                              |
-| [Smooth Shadow](https://shadows.brumm.af)                                                | Make a smooth shadow. Inspired by https://tobiasahlin.com/blog/layered-smooth-box-shadows           |
-| [Style Stage](https://stylestage.dev)                                                    | A modern CSS showcase styled by community contributions                                             |
-| [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/)         | Building Website Headers with CSS Flexbox                                                           |
-| [Utopia](https://utopia.fyi)                                                             | Elegantly scale type and space without breakpoints                                                  |
+| Website                                                                                  | Description                                                                                             |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [A modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/)                       | A very tiny CSS reset from Andy at Piccalilli                                                           |
+| [Can I Include](https://caninclude.glitch.me)                                            | 'Can I Include' tool to help determine if one HTML tag can be included in another HTML tag              |
+| [Clippy](https://bennettfeely.com/clippy/)                                               | CSS clip-path maker                                                                                     |
+| [Color.review](https://color.review)                                                     | What you need to know about colours & accessibility                                                     |
+| [ColorBox](https://colorbox.io)                                                          | ColorBox by [@kvyn\_](https://twitter.com/kvyn_)                                                        |
+| [Components.ai](https://components.ai)                                                   | A growing set of generative components for UI and graphic design                                        |
+| [Coolors](https://coolors.co)                                                            | The super fast colour palettes generator                                                                |
+| [CSSBattle](https://cssbattle.dev)                                                       | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code     |
+| [CSS Colours](https://drafts.csswg.org/css-color/#named-colors)                          | List of CSS named colours                                                                               |
+| [CSS Demystified](https://cssdemystified.com)                                            | CSS Course from Kevin Powell                                                                            |
+| [CSS Gradient](https://cssgradient.io/)                                                  | CSS Gradient generator                                                                                  |
+| [CSS Grid Generator](https://cssgrid-generator.netlify.app/)                             | Generate a basic CSS Grid to get you started                                                            |
+| [CSS In Real Life](https://css-irl.info)                                                 | Tips, tricks and tutorials on the web’s most beautiful language.                                        |
+| [CSS-Tricks](https://css-tricks.com)                                                     | Free CSS tricks and some unique ideas for beginners and advanced.                                       |
+| [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                        | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way                 |
+| [CSS-Tricks - CSS Reset](https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/) | Notes on Josh Comeau’s Custom CSS Reset                                                                 |
+| [Every Layout](https://every-layout.dev)                                                 | Relearn CSS layout                                                                                      |
+| [Cubic-Bezier](https://cubic-bezier.com)                                                 | Cubic Bezier generator                                                                                  |
+| [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/)                  | Fancy border radius visual generator                                                                    |
+| [Huemint](https://huemint.com)                                                           | Huemint uses machine learning to create unique color schemes for your brand, website or graphic         |
+| [Jen Simmons' Lab](https://labs.jensimmons.com)                                          | The experimental layout lab of Jen Simmons                                                              |
+| [Kevin Powell](https://www.kevinpowell.co)                                               | Kevin is a CSS Evangelist - [Kevin's courses](https://courses.kevinpowell.co)                           |
+| [Layoutit Grid](https://grid.layoutit.com/)                                              | Interactive CSS Grid generator                                                                          |
+| [Learn CSS](https://web.dev/learn/css/)                                                  | Learn CSS from web.dev                                                                                  |
+| [Modern CSS Solutions](https://moderncss.dev)                                            | Modern CSS Solutions for Old CSS Problems - A series by Stephanie Eckles                                |
+| [Neumorphism.io](https://neumorphism.io)                                                 | Generate Soft-UI CSS code                                                                               |
+| [Open Props](https://open-props.style)                                                   | Supercharged CSS variables                                                                              |
+| [Piccalilli](https://piccalil.li)                                                        | Andy publishes Tutorials and blog post around CSS and design systems.                                   |
+| [SmollCSS](https://smolcss.dev)                                                          | Minimal snippets for modern CSS layouts and components                                                  |
+| [Smooth Shadow](https://shadows.brumm.af)                                                | Make a smooth shadow. Inspired by https://tobiasahlin.com/blog/layered-smooth-box-shadows               |
+| [Style Stage](https://stylestage.dev)                                                    | A modern CSS showcase styled by community contributions                                                 |
+| [ThinkDoBeCreate](https://thinkdobecreate.com)                                           | Stephanie Eckles is an advocate for accessibility, scalable CSS, and the Jamstack (especially Eleventy) |
+| [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/)         | Building Website Headers with CSS Flexbox                                                               |
+| [Utopia](https://utopia.fyi)                                                             | Elegantly scale type and space without breakpoints                                                      |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
