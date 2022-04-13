@@ -45,6 +45,7 @@
 - [Village Halls](#village-halls)
 - [VoIP](#voip)
 - [Web Development](#web-development)
+- [Website Accessibility](#website-accessibility)
 
 ## Blogging
 
@@ -93,7 +94,9 @@
 | [Advent of Code](https://adventofcode.com)                                                                        | Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. |
 | [Codementor](https://www.codementor.io)                                                                           | Find a developer for live mentorship & freelance projects                                                                                                               |
 | [Codewars](https://www.codewars.com/)                                                                             | Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata.                      |
-| [CS50x Harvard Course](https://cs50.harvard.edu/x/2021/)                                                          | CS50's Introduction to Computer Science                                                                                                                                 |
+| [CS50 - edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)                             | edX: CS50's Introduction to Computer Science                                                                                                                            |
+| [CS50x - Harvard Course Notes](https://cs50.harvard.edu/x/)                                                       | CS50's Introduction to Computer Science OpenCourseWare                                                                                                                  |
+| [CS50 - Harvard Online](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science)          | An introduction to the intellectual enterprises of computer science and the art of programming in an online course from Harvard.                                        |
 | [Edabit](https://edabit.com)                                                                                      | Learn to code with 10,000+ interactive challenges                                                                                                                       |
 | [First Contributions](https://firstcontributions.github.io)                                                       | Make your first open source contribution in 5 minutes                                                                                                                   |
 | [First Timers Only](https://www.firsttimersonly.com)                                                              | Get involved in Open Source and commit code to your first project!                                                                                                      |
@@ -163,6 +166,7 @@
 | [Learn CSS](https://web.dev/learn/css/)                                                  | Learn CSS from web.dev                                                                                  |
 | [Modern CSS Solutions](https://moderncss.dev)                                            | Modern CSS Solutions for Old CSS Problems - A series by Stephanie Eckles                                |
 | [Neumorphism.io](https://neumorphism.io)                                                 | Generate Soft-UI CSS code                                                                               |
+| [Mastering the :nth-child](http://nthmaster.com)                                         | CSS3 pseudo classes and :nth-child ranges                                                               |
 | [Open Props](https://open-props.style)                                                   | Supercharged CSS variables                                                                              |
 | [Piccalilli](https://piccalil.li)                                                        | Andy publishes Tutorials and blog post around CSS and design systems.                                   |
 | [SmollCSS](https://smolcss.dev)                                                          | Minimal snippets for modern CSS layouts and components                                                  |
@@ -252,11 +256,12 @@
 
 > Email resources
 
-| Website                                                                                                                   | Description                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [intoDNS](https://intodns.com)                                                                                            | IntoDNS checks the health and configuration and provides DNS report and mail servers report. |
-| [Malware Expert - Popular Blacklists](https://malware.expert/security/the-7-popular-blacklists-to-keep-away-spam-emails/) | The 7 Popular Blacklists To Keep Away Spam Emails                                            |
-| [Spamhaus](https://www.spamhaus.org)                                                                                      | The Spamhaus Project                                                                         |
+| Website                                                                                                                   | Description                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Buttondown](https://buttondown.email)                                                                                    | Buttondown is a small, elegant tool for producing newsletters                               |
+| [intoDNS](https://intodns.com)                                                                                            | IntoDNS checks the health and configuration and provides DNS report and mail servers report |
+| [Malware Expert - Popular Blacklists](https://malware.expert/security/the-7-popular-blacklists-to-keep-away-spam-emails/) | The 7 Popular Blacklists To Keep Away Spam Emails                                           |
+| [Spamhaus](https://www.spamhaus.org)                                                                                      | The Spamhaus Project                                                                        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -509,6 +514,7 @@
 | [Amazing Waterfowl Facts](https://www.ducks.org/conservation/waterfowl-research-science/amazing-waterfowl-facts) | Incredible information from the world of waterfowl!                                                                                                                                                               |
 | [Clever Surround Sound](https://9to5mac.com/2020/08/12/surround-sound-speakers-for-your-mac/)                    | Clever BBC feature lets you use iPhones and iPads as surround-sound speakers for your Mac                                                                                                                         |
 | [Jurassic Time](https://jurassictime.wixsite.com/memoirs)                                                        | Jurassic Time unearths the vast, long-forgotten ideas and stories of Jurassic Park through exclusive memoirs and other content while paying ultimate homage to the legendary dreamer himself: John Parker Hammond |
+| [Project Gutenberg](https://gutenberg.org)                                                                       | Project Gutenberg is a library of over 60,000 free eBooks                                                                                                                                                         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -561,12 +567,13 @@
 
 > Sites covering React
 
-| Website                                                                                                                          | Description                                                                                     |
-| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [FaceID and TouchID in React Native](https://blog.logrocket.com/how-to-implement-faceid-and-touchid-in-react-native-and-expo/)   | Using FaceID and TouchID in React Native and Expo                                               |
-| [React Helmet](https://css-tricks.com/its-all-in-the-head-managing-the-document-head-of-a-react-powered-site-with-react-helmet/) | CSS Tricks article: Managing the Document Head of a React Powered Site With React Helmet        |
-| [Radix](https://www.radix-ui.com)                                                                                                | Unstyled, accessible components for building high‑quality design systems and web apps in React. |
-| [Top React Native Boilerplates](https://blog.logrocket.com/top-react-native-boilerplates-for-2021/)                              | Top React Native boilerplates for 2021                                                          |
+| Website                                                                                                                          | Description                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [Best Places to Learn React for Free](https://javascript.plainenglish.io/best-place-to-learn-reactjs-free-2ebd66570185)          | JavaScript in Plain English: The top places to learn React for beginners looking to level up their skills from basic to advanced |
+| [FaceID and TouchID in React Native](https://blog.logrocket.com/how-to-implement-faceid-and-touchid-in-react-native-and-expo/)   | Using FaceID and TouchID in React Native and Expo                                                                                |
+| [React Helmet](https://css-tricks.com/its-all-in-the-head-managing-the-document-head-of-a-react-powered-site-with-react-helmet/) | CSS Tricks article: Managing the Document Head of a React Powered Site With React Helmet                                         |
+| [Radix](https://www.radix-ui.com)                                                                                                | Unstyled, accessible components for building high‑quality design systems and web apps in React.                                  |
+| [Top React Native Boilerplates](https://blog.logrocket.com/top-react-native-boilerplates-for-2021/)                              | Top React Native boilerplates for 2021                                                                                           |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -676,10 +683,11 @@
 
 > Online courses
 
-| Website                          | Description                                                                                                                                             |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [exercism](https://exercism.org) | Develop fluency in 55 programming languages with a unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever. |
-| [Pirple](https://www.pirple.com) | Each course consists of video-lectures, homework assignments, quizzes, projects, and a final exam.                                                      |
+| Website                           | Description                                                                                                                                             |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [exercism](https://exercism.org)  | Develop fluency in 55 programming languages with a unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever. |
+| [Pirple](https://www.pirple.com)  | Each course consists of video-lectures, homework assignments, quizzes, projects, and a final exam.                                                      |
+| [writesite](https://writesite.co) | A course for Web Designers: Launch faster by taking control over content                                                                                |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -772,14 +780,28 @@
 | [Smashing Magazine](https://www.smashingmagazine.com)                                   | Online Magazine covering all things web.                                                                                                                                                                       |
 | [Structured Data Generator](https://simplifiedsearch.net/structured-data-generator/)    | Structured Data Generator from Simplified Search                                                                                                                                                               |
 | [Study Web Development](https://studywebdevelopment.com)                                | Study Web Development is run by Kyle Prinsloo                                                                                                                                                                  |
-| [The A11Y Project](https://www.a11yproject.com)                                         | The A11Y Project is a community-driven effort to make digital accessibility easier.                                                                                                                            |
 | [Transform](https://transform.tools)                                                    | A polyglot web converter.                                                                                                                                                                                      |
 | [Traversy Media Content Guide](https://traversymedia.com/guide)                         | A categorised map of crash courses, projects and paid courses by Traversy Media                                                                                                                                |
 | [UI Goodies](https://uigoodies.com)                                                     | The best resources for designers in one place.                                                                                                                                                                 |
 | [/uses](https://uses.tech)                                                              | A list of /uses pages detailing developer setups, gear, software and configs.                                                                                                                                  |
 | [W3Techs](https://w3techs.com)                                                          | W3Techs provides information about the usage of various types of technologies on the web                                                                                                                       |
 | [Web Page Test](https://webpagetest.org)                                                | Test. Optimise. Repeat.                                                                                                                                                                                        |
+| [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)             | Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics                                                                             |
 | [Webbed Briefs](https://briefs.video)                                                   | WEBBED BRIEFS are brief videos about the web, its technologies, and how to make the most of them. They’re packed with information, fun times(TM), and actual goats. Yes, it’s a vlog, but it isn’t on Youtube. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Website Accessibility
+
+> Resources focussing on web accessibility
+
+| Website                                           | Description                                                                                                          |
+| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [Accessibility]()                                 | JavaScript in Plain English: How to Design Your Website with Accessibilty in Mind                                    |
+| [The A11Y Project](https://www.a11yproject.com)   | The A11Y Project is a community-driven effort to make digital accessibility easier.                                  |
+| [Tota11y](https://brucelawson.github.io/tota11y/) | Tota11y is a simple tool to visualise the most widespread web accessibility errors in a non overwhelmingly-techy way |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
