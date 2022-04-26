@@ -10,6 +10,7 @@
 - [CSS](#css)
 - [Digital Signage](#digital-signage)
 - [Django](#django)
+- [DNS](#dns)
 - [Electric Car Charging](#electric-car-charging)
 - [Electric Cars](#electric-cars)
 - [Electronics](#electronics)
@@ -207,6 +208,18 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## DNS
+
+> Information about DNS.
+
+| Website                                  | Description                                   |
+| ---------------------------------------- | --------------------------------------------- |
+| [Mess with DNS](https://messwithdns.net) | Do weird DNS experiments and see how it works |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Electric Car Charging
 
 > Developments in the car charging area
@@ -256,13 +269,14 @@
 
 > Email resources
 
-| Website                                                                                                                   | Description                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [Buttondown](https://buttondown.email)                                                                                    | Buttondown is a small, elegant tool for producing newsletters                               |
-| [intoDNS](https://intodns.com)                                                                                            | IntoDNS checks the health and configuration and provides DNS report and mail servers report |
-| [Malware Expert - Popular Blacklists](https://malware.expert/security/the-7-popular-blacklists-to-keep-away-spam-emails/) | The 7 Popular Blacklists To Keep Away Spam Emails                                           |
-| [mjml.](https://mjml.io)                                                                                                  | Email is Hard: learn how MJML will help you.                                                |
-| [Spamhaus](https://www.spamhaus.org)                                                                                      | The Spamhaus Project                                                                        |
+| Website                                                                                                                   | Description                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [Buttondown](https://buttondown.email)                                                                                    | Buttondown is a small, elegant tool for producing newsletters                                    |
+| [intoDNS](https://intodns.com)                                                                                            | IntoDNS checks the health and configuration and provides DNS report and mail servers report      |
+| [Malware Expert - Popular Blacklists](https://malware.expert/security/the-7-popular-blacklists-to-keep-away-spam-emails/) | The 7 Popular Blacklists To Keep Away Spam Emails                                                |
+| [mjml.](https://mjml.io)                                                                                                  | Email is Hard: learn how MJML will help you.                                                     |
+| [Spamhaus](https://www.spamhaus.org)                                                                                      | The Spamhaus Project                                                                             |
+| [SPF/DKIM/DMARC/DomainKey/RBL Test](https://www.appmaildev.com)                                                           | This is a common DKIM/SPF/DMARC/DomainKey/RBL test tool provided by AdminSystem Software Limited |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
