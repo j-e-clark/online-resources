@@ -274,15 +274,17 @@
 
 > Email resources
 
-| Website                                                                                                                   | Description                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [Buttondown](https://buttondown.email)                                                                                    | Buttondown is a small, elegant tool for producing newsletters                                    |
-| [intoDNS](https://intodns.com)                                                                                            | IntoDNS checks the health and configuration and provides DNS report and mail servers report      |
-| [Mail Tester](https://www.mail-tester.com)                                                                                | Test the Spammyness of your Emails                                                               |
-| [Malware Expert - Popular Blacklists](https://malware.expert/security/the-7-popular-blacklists-to-keep-away-spam-emails/) | The 7 Popular Blacklists To Keep Away Spam Emails                                                |
-| [mjml.](https://mjml.io)                                                                                                  | Email is Hard: learn how MJML will help you.                                                     |
-| [Spamhaus](https://www.spamhaus.org)                                                                                      | The Spamhaus Project                                                                             |
-| [SPF/DKIM/DMARC/DomainKey/RBL Test](https://www.appmaildev.com)                                                           | This is a common DKIM/SPF/DMARC/DomainKey/RBL test tool provided by AdminSystem Software Limited |
+| Website                                                                                                                   | Description                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Buttondown](https://buttondown.email)                                                                                    | Buttondown is a small, elegant tool for producing newsletters                                                                                   |
+| [intoDNS](https://intodns.com)                                                                                            | IntoDNS checks the health and configuration and provides DNS report and mail servers report                                                     |
+| [Mail Tester](https://www.mail-tester.com)                                                                                | Test the Spammyness of your Emails                                                                                                              |
+| [mailjet](https://www.mailjet.com/)                                                                                       | Email API                                                                                                                                       |
+| [Malware Expert - Popular Blacklists](https://malware.expert/security/the-7-popular-blacklists-to-keep-away-spam-emails/) | The 7 Popular Blacklists To Keep Away Spam Emails                                                                                               |
+| [mjml.](https://mjml.io)                                                                                                  | Email is Hard: learn how MJML will help you.                                                                                                    |
+| [sendinblue](https://www.sendinblue.com/)                                                                                 | Email, SMS, Facebook, Chat, CRM, and more, all-in-one platform to help you grow your business through building stronger customer relationships. |
+| [Spamhaus](https://www.spamhaus.org)                                                                                      | The Spamhaus Project                                                                                                                            |
+| [SPF/DKIM/DMARC/DomainKey/RBL Test](https://www.appmaildev.com)                                                           | This is a common DKIM/SPF/DMARC/DomainKey/RBL test tool provided by AdminSystem Software Limited                                                |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
