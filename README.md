@@ -607,6 +607,7 @@
 
 | Website                                                                | Description                                                                       |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [.new Shortcuts](https://whats.new/shortcuts/)                         | There's a .new link that can help you get things done faster                      |
 | [Tide Company Registration](https://www.tide.co/company-registration/) | Open a business account and Tide will Register a limited company , all in one go. |
 | [With Jack](https://withjack.co.uk)                                    | With Jack is all about insurance for freelance creatives.                         |
 
