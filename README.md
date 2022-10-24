@@ -520,6 +520,7 @@
 
 | Website                                                                                | Description                                                                            |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Brand Addition](https://www.brandaddition.com)                                        | Brand Addition create incredible merchandise to support amazing brands                 |
 | [Printful](https://www.printful.com)                                                   | Easy print-on-demand drop shipping and fulfillment warehouse services                  |
 | [Teemill](https://teemill.com)                                                         | Sell T-Shirts Online with a Teemill print-on-demand store.                             |
 | [Teespring](https://teespring.com/)                                                    | A simple solution for creating and selling products and help you monetise your content |
