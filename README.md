@@ -22,6 +22,7 @@
 - [Hosting Blog Posts](#hosting-blog-posts)
 - [HTML](#html)
 - [Icons](#icons)
+- [Indieweb](#indieweb)
 - [JAMStack](#jamstack)
 - [JAMStack Blog Posts](#jamstack-blog-posts)
 - [JavaScript](#javascript)
@@ -396,6 +397,17 @@
 | ------------------------------------- | ----------------------------------------------------- |
 | [Flaticon](https://www.flaticon.com/) | Vector icons and stickers                             |
 | [Icons8](https://icons8.com/)         | Icons, illustrations, photos, music, and design tools |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Indieweb
+
+> The ActivityPub protocol is a decentralised social networking protocol.
+
+| Website | Description |
+| ------- | ----------- |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
