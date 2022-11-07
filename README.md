@@ -404,10 +404,12 @@
 
 ## Indieweb
 
-> The ActivityPub protocol is a decentralised social networking protocol.
+> The IndieWeb is a people-focused alternative to the "corporate web" using standards like webmentions and micropub.
 
-| Website | Description |
-| ------- | ----------- |
+| Website                                                               | Description                  |
+| --------------------------------------------------------------------- | ---------------------------- |
+| [Indieweb](https://indieweb.org)                                      |                              |
+| [On a static website](https://vincentp.me/articles/2018/11/14/20-00/) | Indieweb on a static website |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
