@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [ActivityPub](#activitypub)
 - [Blogging](#blogging)
 - [Business](#business)
 - [Coding](#coding)
@@ -50,6 +51,20 @@
 - [Vue](#vue)
 - [Web Development](#web-development)
 - [Website Accessibility](#website-accessibility)
+
+## ActivityPub
+
+> The ActivityPub protocol is a decentralised social networking protocol.
+
+| Website                                                                                                       | Description                                 |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| [Aaron Parecki](https://aaronparecki.com)                                                                     | Aaron Parecki home page                     |
+| [@aaronpk](https://aaronparecki.com/@aaronpk)                                                                 | @aaronpk                                    |
+| [Blog - how to implement](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/) | How to implement a basic ActivityPub server |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Blogging
 
@@ -665,6 +680,7 @@
 | Website                                                                                  | Description                                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Cyberduck](https://cyberduck.io)                                                        | Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox |
+| [Mac Install Guides](https://mac.install.guide)                                          | Installation guides. For the Mac. Community-authored.                                                                                                                                                        |
 | [Mac Power Users](https://macpowerusers.com/)                                            | Mac Power Users Podcast from Relay FM                                                                                                                                                                        |
 | [Text Case](https://textcase.app)                                                        | Automatable Text Transformations                                                                                                                                                                             |
 | [The macOS Automation Sites](https://macosxautomation.com)                               | “The power of the computer should reside in the hands of the one using it.”                                                                                                                                  |
