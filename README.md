@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [ActivityPub](#activitypub)
+- [Advertising](#advertising)
 - [Blogging](#blogging)
 - [Business](#business)
 - [Coding](#coding)
@@ -34,6 +35,7 @@
 - [Misc](#misc)
 - [Monitoring](#monitoring)
 - [Networking](#networking)
+- [OpenGraph](#opengraph)
 - [React](#react)
 - [Services - Business](#services---business)
 - [Software - Business](#software---business)
@@ -62,6 +64,18 @@
 | [Aaron Parecki](https://aaronparecki.com)                                                                     | Aaron Parecki home page                     |
 | [@aaronpk](https://aaronparecki.com/@aaronpk)                                                                 | @aaronpk                                    |
 | [Blog - how to implement](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/) | How to implement a basic ActivityPub server |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Advertising
+
+> Advertising services for the web
+
+| Website                                 | Description                                                                                                                       |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [EthicalAds](https://www.ethicalads.io) | Advertising for Developers. That Just Works. Connecting hand-picked advertisers with engaged developers without invasive tracking |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -621,6 +635,19 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## OpenGraph
+
+> OpenGraph resources
+
+| Website                                    | Description                                                                            |
+| ------------------------------------------ | -------------------------------------------------------------------------------------- |
+| [OpenGraph.xyz](https://www.opengraph.xyz) | The Easiest Way to Preview and Generate Open Graph Meta Tags                           |
+| [The OpenGraph Protocol](https://ogp.me)   | The Open Graph protocol enables any web page to become a rich object in a social graph |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## React
 
 > Sites covering React
@@ -874,6 +901,7 @@
 | [Front End Practice](https://www.frontendpractice.com)                                  | Become a better frontend developer. Take your frontend skills to the next level by recreating real websites.                                                                                                   |
 | [Letters to a new Developer](https://letterstoanewdeveloper.com)                        | What Dan Moore wishes he had known when starting his development career                                                                                                                                        |
 | [LogRocket Blog](https://blog.logrocket.com/)                                           | Web dev blog from LogRocket                                                                                                                                                                                    |
+| [Maskable.app](https://maskable.app)                                                    | Use Maskable.app to preview your maskable PWA icons before adding them to your web app manifest.                                                                                                               |
 | [Parameters and Arguments](https://typealias.com/guides/parameters-arguments/)          | An Easy Way to Remember the Difference                                                                                                                                                                         |
 | [Pro Git](https://git-scm.com/book/en/v2)                                               | The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress                                                                                                                        |
 | [roadmap.sh](https://roadmap.sh)                                                        | roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings                                        |
