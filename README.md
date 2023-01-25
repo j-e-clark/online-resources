@@ -608,11 +608,12 @@
 
 > Software for Markdown
 
-| Website                                         | Description                                                                                                      |
-| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [CommonMark Help](https://commonmark.org/help/) | A strongly defined, highly compatible specification of Markdown                                                  |
-| [Dillinger](https://dillinger.io)               | Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor. |
-| [readme.so](https://readme.so)                  | This simple editor allows you to quickly add and customise all the sections you need for your project's readme.  |
+| Website                                         | Description                                                                                                     |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [CommonMark Help](https://commonmark.org/help/) | A strongly defined, highly compatible specification of Markdown                                                 |
+| [Dillinger](https://dillinger.io)               | Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor |
+| [readme.so](https://readme.so)                  | This simple editor allows you to quickly add and customise all the sections you need for your project's readme  |
+| [**sli**dev](https://sli.dev)                   | Presentation **Sli**des for **Dev**elopers - Write slides in a single Markdown file                             |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
