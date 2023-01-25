@@ -4,6 +4,7 @@
 
 - [ActivityPub](#activitypub)
 - [Advertising](#advertising)
+- [AI](#ai)
 - [Blogging](#blogging)
 - [Business](#business)
 - [Coding](#coding)
@@ -76,6 +77,20 @@
 | Website                                 | Description                                                                                                                       |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | [EthicalAds](https://www.ethicalads.io) | Advertising for Developers. That Just Works. Connecting hand-picked advertisers with engaged developers without invasive tracking |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## AI
+
+> AI services
+
+| Website                                                   | Description                                                                                                                          |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [Midjourney](https://www.midjourney.com/)                 | Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species |
+| [Midjourney Documentation](https://midjourney.gitbook.io) | Quick Start Guide, User Manual, FAQs                                                                                                 |
+| [OpenAI](https://openai.com)                              | Creators of ChatGPT and DALL-E 2                                                                                                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
