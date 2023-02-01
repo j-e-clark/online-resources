@@ -773,13 +773,14 @@
 
 > Scalable Vector Graphics
 
-| Website                                                             | Description                                 |
-| ------------------------------------------------------------------- | ------------------------------------------- |
-| [Get Waves](https://getwaves.io/)                                   | SVG Wave generator                          |
-| [Loading.io](https://loading.io/)                                   | Animation made easy                         |
-| [Pattern Monster](https://pattern.monster)                          | Customizable SVG patterns for your projects |
-| [SVG Wave](https://svgwave.in/)                                     | Generate SVG Waves 🌊                       |
-| [SVG Wave Generator](https://www.softr.io/tools/svg-wave-generator) | Create Beautiful SVG Waves                  |
+| Website                                                             | Description                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------ |
+| [Get Waves](https://getwaves.io/)                                   | SVG Wave generator                               |
+| [Loading.io](https://loading.io/)                                   | Animation made easy                              |
+| [Pattern Monster](https://pattern.monster)                          | Customizable SVG patterns for your projects      |
+| [SvgPathEditor](https://yqnn.github.io/svg-path-editor/)            | Online editor to create and manipulate SVG paths |
+| [SVG Wave](https://svgwave.in/)                                     | Generate SVG Waves 🌊                            |
+| [SVG Wave Generator](https://www.softr.io/tools/svg-wave-generator) | Create Beautiful SVG Waves                       |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
