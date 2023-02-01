@@ -949,12 +949,13 @@
 
 > Resources focussing on web accessibility
 
-| Website                                           | Description                                                                                                          |
-| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Accessibility]()                                 | JavaScript in Plain English: How to Design Your Website with Accessibilty in Mind                                    |
-| [The A11Y Project](https://www.a11yproject.com)   | The A11Y Project is a community-driven effort to make digital accessibility easier                                   |
-| [Randoma11y](https://randoma11y.com)              | Generate random accessible color combinations                                                                        |
-| [Tota11y](https://brucelawson.github.io/tota11y/) | Tota11y is a simple tool to visualise the most widespread web accessibility errors in a non overwhelmingly-techy way |
+| Website                                                                                                                                               | Description                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [5 Free Website Accessibility Tools](https://mediacurrent.medium.com/5-free-website-accessibility-tools-to-add-to-your-auditing-process-4449f37143d7) | Blog post: 5 Free Website Accessibility Tools to Add to Your Auditing Process                                        |
+| [Accessibility](https://javascript.plainenglish.io/how-to-design-your-website-with-accessibility-in-mind-a6d80e8ddedf)                                | JavaScript in Plain English: How to Design Your Website with Accessibilty in Mind                                    |
+| [The A11Y Project](https://www.a11yproject.com)                                                                                                       | The A11Y Project is a community-driven effort to make digital accessibility easier                                   |
+| [Randoma11y](https://randoma11y.com)                                                                                                                  | Generate random accessible color combinations                                                                        |
+| [Tota11y](https://brucelawson.github.io/tota11y/)                                                                                                     | Tota11y is a simple tool to visualise the most widespread web accessibility errors in a non overwhelmingly-techy way |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
