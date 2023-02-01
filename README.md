@@ -202,6 +202,7 @@
 | [CSS Colours](https://drafts.csswg.org/css-color/#named-colors)                                       | List of CSS named colours                                                                                          |
 | [CSS Demystified](https://cssdemystified.com)                                                         | CSS Course from Kevin Powell                                                                                       |
 | [CSS Gradient](https://cssgradient.io/)                                                               | CSS Gradient generator                                                                                             |
+| [CSS Generators](https://css-generators.com)                                                          | Your CSS code with less effort - borders, corners, Dividers, Patterns, Shapes                                      |
 | [CSS Grid Generator](https://cssgrid-generator.netlify.app/)                                          | Generate a basic CSS Grid to get you started                                                                       |
 | [CSS In Real Life](https://css-irl.info)                                                              | Tips, tricks and tutorials on the web’s most beautiful language.                                                   |
 | [CSS-Tricks](https://css-tricks.com)                                                                  | Free CSS tricks and some unique ideas for beginners and advanced.                                                  |
