@@ -684,6 +684,7 @@
 | [Open Graph Image Generation](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation) | Learn how to optimize social media image generation via the Open Graph Protocol and @vercel/og library. |
 | [OpenGraph.xyz](https://www.opengraph.xyz)                                                                   | The Easiest Way to Preview and Generate Open Graph Meta Tags                                            |
 | [The OpenGraph Protocol](https://ogp.me)                                                                     | The Open Graph protocol enables any web page to become a rich object in a social graph                  |
+| [Vercel OG Image Playground](https://og-playground.vercel.app)                                               | You can use this tool to test and preview OG image cards generated with @vercel/og.                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
