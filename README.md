@@ -469,6 +469,7 @@
 | [Strapi - Tutorials](https://strapi.io/tutorials)                                                                       | Follow along with one of our community tutorials to get you up and running with Strapi.                                                                               |
 | [THE Eleventy Meetup](https://11tymeetup.dev)                                                                           | Join the Possum Posse to learn more about Eleventy! We're a new virtual meetup all about Eleventy and the tools and skills that support developing on Eleventy.       |
 | [Vercel](https://vercel.com/)                                                                                           | Vercel enable developers to build and publish wonderful things                                                                                                        |
+| [Vite](https://vitejs.dev)                                                                                              | Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.                                                         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
