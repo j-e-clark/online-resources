@@ -36,6 +36,7 @@
 - [Misc](#misc)
 - [Monitoring](#monitoring)
 - [Networking](#networking)
+- [Open Source](#open-source)
 - [OpenGraph](#opengraph)
 - [React](#react)
 - [Services - Business](#services---business)
@@ -656,6 +657,18 @@
 | [Ubiquiti - Simplifying IT](https://www.ui.com)      | Prosumer level network equipment                                                                                            |
 | [Ubiquiti - Downloads](https://www.ui.com/download/) | Firmware downloads etc. for Ubiquiti equipment                                                                              |
 | [Ubiquiti - Community](https://community.ui.com)     | Official forums for Ubiquiti                                                                                                |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Open Source
+
+> Open Source resources
+
+| Website                                                                                              | Description                                                          |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [Open Source blog post](https://jakepage.io/how-open-source-saved-me-from-my-udemy-course-addiction) | How Open Source saved me from my Udemy course addiction by Jake Page |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
