@@ -60,11 +60,12 @@
 
 > The ActivityPub protocol is a decentralised social networking protocol.
 
-| Website                                                                                                       | Description                                 |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| [Aaron Parecki](https://aaronparecki.com)                                                                     | Aaron Parecki home page                     |
-| [@aaronpk](https://aaronparecki.com/@aaronpk)                                                                 | @aaronpk                                    |
-| [Blog - how to implement](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/) | How to implement a basic ActivityPub server |
+| Website                                                                                                          | Description                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Aaron Parecki](https://aaronparecki.com)                                                                        | Aaron Parecki home page                                                                                                   |
+| [@aaronpk](https://aaronparecki.com/@aaronpk)                                                                    | @aaronpk                                                                                                                  |
+| [Blog - how to implement](https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/)    | How to implement a basic ActivityPub server                                                                               |
+| [Protocols and ActivityPub](https://thenewstack.io/how-to-work-with-protocols-and-get-started-with-activitypub/) | A crash course in using protocols — and understanding how they are different from APIs — using ActivityPub as an example. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
