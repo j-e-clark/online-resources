@@ -467,6 +467,7 @@
 | [SendOwl](https://www.sendowl.com)                                                                                      | A better way to sell your digital products.                                                                                                                           |
 | [Strapi](https://strapi.io)                                                                                             | Strapi is the leading open-source headless CMS. It’s 100% Javascript, fully customizable and developer-first.                                                         |
 | [Strapi - Tutorials](https://strapi.io/tutorials)                                                                       | Follow along with one of our community tutorials to get you up and running with Strapi.                                                                               |
+| [THE Eleventy Meetup](https://11tymeetup.dev)                                                                           | Join the Possum Posse to learn more about Eleventy! We're a new virtual meetup all about Eleventy and the tools and skills that support developing on Eleventy.       |
 | [Vercel](https://vercel.com/)                                                                                           | Vercel enable developers to build and publish wonderful things                                                                                                        |
 
 <div align="right">
