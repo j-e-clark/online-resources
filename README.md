@@ -724,6 +724,7 @@
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | [Apache Cordova](https://cordova.apache.org)               | Mobile apps with HTML, CSS & JS                                                                               |
 | [Bookstack](https://www.bookstackapp.com)                  | BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information               |
+| [CodeKit](https://codekitapp.com)                          | Dozens of web development tools in one fully-native Mac app.                                                  |
 | [Commands](https://www.commands.dev)                       | Commands.dev is a searchable, templated catalog of popular terminal commands curated from across the internet |
 | [DistroWatch](https://distrowatch.com)                     | A website dedicated to talking about, reviewing and keeping up to date with open source operating systems     |
 | [fathom](https://usefathom.com)                            | Website analytics without compromise                                                                          |
