@@ -20,6 +20,7 @@
 - [Email](#email)
 - [Energy Market](#energy-market)
 - [Fonts](#fonts)
+- [Fun](#fun)
 - [Hosting](#hosting)
 - [Hosting Blog Posts](#hosting-blog-posts)
 - [HTML](#html)
@@ -379,6 +380,18 @@
 | Website                                                      | Description                                                                                                                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Google Fonts Knowledge](https://fonts.google.com/knowledge) | A library of original guides to the world of typography, which the Google Fonts team is producing in collaboration with typographic experts from around the world. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Fun
+
+> Other stuff from around the web
+
+| Website                                                           | Description                                     |
+| ----------------------------------------------------------------- | ----------------------------------------------- |
+| [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth) | Visualisations of the Earth going back in time. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
