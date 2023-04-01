@@ -230,6 +230,7 @@
 | [Mastering the :nth-child](http://nthmaster.com)                                                      | CSS3 pseudo classes and :nth-child ranges                                                                          |
 | [Open Props](https://open-props.style)                                                                | Supercharged CSS variables                                                                                         |
 | [Piccalilli](https://piccalil.li)                                                                     | Andy publishes Tutorials and blog post around CSS and design systems.                                              |
+| [Shadow Gradients](https://alvarotrigo.com/shadow-gradients/)                                         | CSS Shadow Gradients - Generator                                                                                   |
 | [SmollCSS](https://smolcss.dev)                                                                       | Minimal snippets for modern CSS layouts and components                                                             |
 | [Smooth Shadow](https://shadows.brumm.af)                                                             | Make a smooth shadow. Inspired by https://tobiasahlin.com/blog/layered-smooth-box-shadows                          |
 | [Style Stage](https://stylestage.dev)                                                                 | A modern CSS showcase styled by community contributions                                                            |
