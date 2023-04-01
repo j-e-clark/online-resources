@@ -55,6 +55,7 @@
 - [VoIP](#voip)
 - [Vue](#vue)
 - [Web Development](#web-development)
+- [Web Development Blog Posts](#web-development-blog-posts)
 - [Website Accessibility](#website-accessibility)
 
 ## ActivityPub
@@ -970,6 +971,19 @@
 | [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)             | Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics                                                                             |
 | [Webbed Briefs](https://briefs.video)                                                   | WEBBED BRIEFS are brief videos about the web, its technologies, and how to make the most of them. They’re packed with information, fun times(TM), and actual goats. Yes, it’s a vlog, but it isn’t on Youtube. |
 | [whitep4nth3r](https://whitep4nth3r.com)                                                | Salma helps developers build stuff, learn things and love what they do                                                                                                                                         |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Web Development Blog Posts
+
+> Post talking about Web Development and Web Development Businesses
+
+| Website                                                                                                                    | Description                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [How to get Clients as a Freelance Developer](https://studywebdevelopment.com/how-to-get-clients-freelance-developer.html) | How to get Clients as a Freelance Developer - Post from Study Web Development                     |
+| [How to start a Freelance Web Design Business](https://studywebdevelopment.com/start-freelance-web-design-business.html)   | How to start a Freelance Web Design Business with no experience - Post from Study Web Development |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
