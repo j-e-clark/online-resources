@@ -390,9 +390,10 @@
 
 > Other stuff from around the web
 
-| Website                                                           | Description                                     |
-| ----------------------------------------------------------------- | ----------------------------------------------- |
-| [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth) | Visualisations of the Earth going back in time. |
+| Website                                                           | Description                                                             |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth) | Visualisations of the Earth going back in time.                         |
+| [Days since incident](https://neal.fun/days-since-incident/)      | As the name suggests; counts the number of days since various incidents |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
