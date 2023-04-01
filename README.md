@@ -982,6 +982,7 @@
 | [Mac VoiceOver Testing](https://cloudfour.com/thinks/mac-voiceover-testing-the-simple-way/)                                                           | Mac VoiceOver Testing the Simple Way by Scott Vandehey                                                               |
 | [Randoma11y](https://randoma11y.com)                                                                                                                  | Generate random accessible color combinations                                                                        |
 | [Tota11y](https://brucelawson.github.io/tota11y/)                                                                                                     | Tota11y is a simple tool to visualise the most widespread web accessibility errors in a non overwhelmingly-techy way |
+| [Web Accessibility Checklist](https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/)                                      | Best Practices and a Checklist for Developers                                                                        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
