@@ -97,6 +97,7 @@
 | [Midjourney](https://www.midjourney.com/)                 | Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species |
 | [Midjourney Documentation](https://midjourney.gitbook.io) | Quick Start Guide, User Manual, FAQs                                                                                                 |
 | [OpenAI](https://openai.com)                              | Creators of ChatGPT and DALL-E 2                                                                                                     |
+| [phind](https://www.phind.com)                            | The AI search engine for developers                                                                                                  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
