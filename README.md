@@ -213,6 +213,7 @@
 | [CSS Generators](https://css-generators.com)                                                          | Your CSS code with less effort - borders, corners, Dividers, Patterns, Shapes                                      |
 | [CSS Grid Generator](https://cssgrid-generator.netlify.app/)                                          | Generate a basic CSS Grid to get you started                                                                       |
 | [CSS In Real Life](https://css-irl.info)                                                              | Tips, tricks and tutorials on the web’s most beautiful language.                                                   |
+| [CSS Pattern](https://css-pattern.com)                                                                | CSS Pattern powered by CSS gradients                                                                               |
 | [CSS-Tricks](https://css-tricks.com)                                                                  | Free CSS tricks and some unique ideas for beginners and advanced.                                                  |
 | [CSS-Tricks - Autoprefixer](https://css-tricks.com/autoprefixer/)                                     | Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way                            |
 | [CSS-Tricks - CSS Reset](https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/)              | Notes on Josh Comeau’s Custom CSS Reset                                                                            |
