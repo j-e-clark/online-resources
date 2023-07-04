@@ -55,6 +55,7 @@
 - [Village Halls](#village-halls)
 - [VoIP](#voip)
 - [Vue](#vue)
+- [Web Components](#web-components)
 - [Web Development](#web-development)
 - [Web Development Blog Posts](#web-development-blog-posts)
 - [Website Accessibility](#website-accessibility)
@@ -952,6 +953,18 @@
 | ------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | [NativeScript-Vue](https://nativescript-vue.org) | Truly native apps using Vue.js and NativeScript                                      |
 | [Vue](https://vuejs.org)                         | An approachable, performant and versatile framework for building web user interfaces |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Web Components
+
+> Web Component resources
+
+| Website                            | Description                                  |
+| ---------------------------------- | -------------------------------------------- |
+| [Shoelace](https://shoelace.style) | A forward-thinking library of web components |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
