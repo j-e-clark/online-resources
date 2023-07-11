@@ -456,6 +456,7 @@
 | [Bootstrap Icons](https://icons.getbootstrap.com) | Free, high quality, open source icon library with over 1,800 icons                                        |
 | [Flaticon](https://www.flaticon.com/)             | Vector icons and stickers                                                                                 |
 | [IcoMoon](https://icomoon.io)                     | IcoMoon is striving to build and provide the best iconography and icon management tool for perfectionists |
+| [Icones](https://icones.js.org)                   | Great for finding any icon you might ever need                                                            |
 | [Icons8](https://icons8.com/)                     | Icons, illustrations, photos, music, and design tools                                                     |
 
 <div align="right">
