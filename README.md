@@ -201,6 +201,7 @@
 | Website                                                                                               | Description                                                                                                        |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | [A modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/)                                    | A very tiny CSS reset from Andy at Piccalilli                                                                      |
+| [boxshadoes.xyz](https://boxshadows.xyz)                                                              | A tool for doing layered shadows                                                                                   |
 | [Can I Include](https://caninclude.glitch.me)                                                         | 'Can I Include' tool to help determine if one HTML tag can be included in another HTML tag                         |
 | [Clippy](https://bennettfeely.com/clippy/)                                                            | CSS clip-path maker                                                                                                |
 | [Color.review](https://color.review)                                                                  | What you need to know about colours & accessibility                                                                |
