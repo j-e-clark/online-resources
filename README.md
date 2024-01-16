@@ -1034,6 +1034,7 @@
 | [Canonical URL](https://catalins.tech/canonical-url-what-is-it-and-why-should-you-care/)                                   | Canonical URL - What Is It And Why Should You Care                                                |
 | [How to get Clients as a Freelance Developer](https://studywebdevelopment.com/how-to-get-clients-freelance-developer.html) | How to get Clients as a Freelance Developer - Post from Study Web Development                     |
 | [How to start a Freelance Web Design Business](https://studywebdevelopment.com/start-freelance-web-design-business.html)   | How to start a Freelance Web Design Business with no experience - Post from Study Web Development |
+| [Top Front-End Tools Of 2023](https://www.smashingmagazine.com/2024/01/top-frontend-tools-2023/)                           | Smashing Magazine article by Louis Lazaris                                                        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
