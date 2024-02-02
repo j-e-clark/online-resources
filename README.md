@@ -386,6 +386,7 @@
 
 | Website                                                      | Description                                                                                                                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Collletttivo](https://www.collletttivo.it)                  | Collletttivo is an Open-Source type foundry and a network of people promoting the practice of type design through mutual exchange and collaboration.               |
 | [fontpair](https://www.fontpair.co/)                         | Browse through hundreds of free Google Font pairings to use for your next creative project.                                                                        |
 | [Google Fonts Knowledge](https://fonts.google.com/knowledge) | A library of original guides to the world of typography, which the Google Fonts team is producing in collaboration with typographic experts from around the world. |
 
