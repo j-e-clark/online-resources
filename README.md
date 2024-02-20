@@ -414,6 +414,7 @@
 | Website                                                  | Description                                                                                                                                                                                                            |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/) | Gatsby Cloud is a unified cloud platform specifically built for the Gatsby framework that combines a modern developer toolset and workflow with an optimized, global edge network for an unbeatable Gatsby experience. |
+| [.htaccess Cheat Sheet](https://htaccesscheatsheet.com)  | All the important Apache .htaccess web server rules and config options                                                                                                                                                 |
 | [SSLs.com](https://www.ssls.com)                         | Cheap SSL Certificates                                                                                                                                                                                                 |
 
 <div align="right">
