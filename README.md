@@ -384,11 +384,12 @@
 
 > Fonts for websites
 
-| Website                                                      | Description                                                                                                                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Collletttivo](https://www.collletttivo.it)                  | Collletttivo is an Open-Source type foundry and a network of people promoting the practice of type design through mutual exchange and collaboration.               |
-| [fontpair](https://www.fontpair.co/)                         | Browse through hundreds of free Google Font pairings to use for your next creative project.                                                                        |
-| [Google Fonts Knowledge](https://fonts.google.com/knowledge) | A library of original guides to the world of typography, which the Google Fonts team is producing in collaboration with typographic experts from around the world. |
+| Website                                                      | Description                                                                                                                                                                        |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Collletttivo](https://www.collletttivo.it)                  | Collletttivo is an Open-Source type foundry and a network of people promoting the practice of type design through mutual exchange and collaboration.                               |
+| [fontpair](https://www.fontpair.co/)                         | Browse through hundreds of free Google Font pairings to use for your next creative project.                                                                                        |
+| [Google Fonts Knowledge](https://fonts.google.com/knowledge) | A library of original guides to the world of typography, which the Google Fonts team is producing in collaboration with typographic experts from around the world.                 |
+| [Modern Font Stacks](https://modernfontstacks.com)           | System font stack CSS organized by typeface classification for every modern OS - The fastest fonts available. No downloading, no layout shifts, no flashes — just instant renders. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
