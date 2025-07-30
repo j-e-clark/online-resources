@@ -978,9 +978,10 @@
 
 > Web Component resources
 
-| Website                            | Description                                  |
-| ---------------------------------- | -------------------------------------------- |
-| [Shoelace](https://shoelace.style) | A forward-thinking library of web components |
+| Website                                            | Description                                                                                                                                                                                   |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [The Component Gallery](https://component.gallery) | The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems, designed to be a reference for anyone building user interfaces. |
+| [Shoelace](https://shoelace.style)                 | A forward-thinking library of web components                                                                                                                                                  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
