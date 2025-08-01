@@ -59,6 +59,7 @@
 - [Web Development](#web-development)
 - [Web Development Blog Posts](#web-development-blog-posts)
 - [Website Accessibility](#website-accessibility)
+- [Writing](#writing)
 
 ## ActivityPub
 
@@ -1069,6 +1070,18 @@
 | [Sara Soueidan](https://www.sarasoueidan.com/blog/testing-environment-setup/)                                                                         | Setting up a screen reader testing environment on your computer                                                      |
 | [Tota11y](https://brucelawson.github.io/tota11y/)                                                                                                     | Tota11y is a simple tool to visualise the most widespread web accessibility errors in a non overwhelmingly-techy way |
 | [Web Accessibility Checklist](https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/)                                      | Best Practices and a Checklist for Developers                                                                        |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Writing
+
+> Writing resources
+
+| Website                                   | Description                                           |
+| ----------------------------------------- | ----------------------------------------------------- |
+| [Hemingway App](https://hemingwayapp.com) | Hemingway App makes your writing concise and correct. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
