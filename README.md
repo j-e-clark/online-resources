@@ -236,6 +236,7 @@
 | [Mastering the :nth-child](http://nthmaster.com)                                                      | CSS3 pseudo classes and :nth-child ranges                                                                          |
 | [Open Props](https://open-props.style)                                                                | Supercharged CSS variables                                                                                         |
 | [Piccalilli](https://piccalil.li)                                                                     | Andy publishes Tutorials and blog post around CSS and design systems.                                              |
+| [Pico](https://picocss.com)                                                                           | Minimal CSS Framework for Semantic HTML                                                                            |
 | [Realtime Colors](https://realtimecolors.com/)                                                        | Visualize Your Colors On a Real Website                                                                            |
 | [Shadow Gradients](https://alvarotrigo.com/shadow-gradients/)                                         | CSS Shadow Gradients - Generator                                                                                   |
 | [SmollCSS](https://smolcss.dev)                                                                       | Minimal snippets for modern CSS layouts and components                                                             |
