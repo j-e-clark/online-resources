@@ -227,6 +227,7 @@
 | [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)                                 | Josh W Comeau's Gradient Generator                                                                                 |
 | [Huemint](https://huemint.com)                                                                        | Huemint uses machine learning to create unique color schemes for your brand, website or graphic                    |
 | [Jen Simmons' Lab](https://labs.jensimmons.com)                                                       | The experimental layout lab of Jen Simmons                                                                         |
+| [Kelp](https://kelpui.com)                                                                            | A UI library for people who love HTML, powered by modern CSS and Web Components.                                   |
 | [Kevin Powell](https://www.kevinpowell.co)                                                            | Kevin is a CSS Evangelist - [Kevin's courses](https://courses.kevinpowell.co)                                      |
 | [Khroma](https://khroma.co)                                                                           | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save |
 | [Layoutit Grid](https://grid.layoutit.com/)                                                           | Interactive CSS Grid generator                                                                                     |
