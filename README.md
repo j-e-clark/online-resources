@@ -915,10 +915,11 @@
 
 > UI and UX design resources
 
-| Website                                   | Description                                                                                                                          |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [Usability Hub](https://usabilityhub.com) | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users. |
-| [UXMetrics](https://uxmetrics.com)        | Card sorting and tree testing made easy                                                                                              |
+| Website                                        | Description                                                                                                                          |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [Design Principles](https://principles.design) | An open source collection of Design Principles and methods.                                                                          |
+| [Usability Hub](https://usabilityhub.com)      | UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users. |
+| [UXMetrics](https://uxmetrics.com)             | Card sorting and tree testing made easy                                                                                              |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
