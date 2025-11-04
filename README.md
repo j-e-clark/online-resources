@@ -243,6 +243,7 @@
 | [Smooth Shadow](https://shadows.brumm.af)                                                             | Make a smooth shadow. Inspired by https://tobiasahlin.com/blog/layered-smooth-box-shadows                          |
 | [Style Stage](https://stylestage.dev)                                                                 | A modern CSS showcase styled by community contributions                                                            |
 | [ThinkDoBeCreate](https://thinkdobecreate.com)                                                        | Stephanie Eckles is an advocate for accessibility, scalable CSS, and the Jamstack (especially Eleventy)            |
+| [Water.css](https://watercss.kognise.dev)                                                             | Water.css is a drop-in collection of CSS styles to make simple websites just a little bit nicer.                   |
 | [Website Headers Flexbox](https://ishadeed.com/article/website-headers-flexbox/)                      | Building Website Headers with CSS Flexbox                                                                          |
 | [Utopia](https://utopia.fyi)                                                                          | Elegantly scale type and space without breakpoints                                                                 |
 | [You don't need a UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/) | Smashing Magazine article by Josh Comeau                                                                           |
