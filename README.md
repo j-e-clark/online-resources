@@ -713,9 +713,10 @@
 
 > Open Source resources
 
-| Website                                                                                              | Description                                                          |
-| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Open Source blog post](https://jakepage.io/how-open-source-saved-me-from-my-udemy-course-addiction) | How Open Source saved me from my Udemy course addiction by Jake Page |
+| Website                                                                                              | Description                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Open Source blog post](https://jakepage.io/how-open-source-saved-me-from-my-udemy-course-addiction) | How Open Source saved me from my Udemy course addiction by Jake Page                                                                                                                                           |
+| [Vert](https://vert.sh)                                                                              | The file converter you'll love - All image, audio, and document processing is done on your device. Videos are converted on our lightning-fast servers. No file size limit, no ads, and completely open source. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
