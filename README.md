@@ -399,6 +399,7 @@
 | [fontpair](https://www.fontpair.co/)                         | Browse through hundreds of free Google Font pairings to use for your next creative project.                                                                                        |
 | [Google Fonts Knowledge](https://fonts.google.com/knowledge) | A library of original guides to the world of typography, which the Google Fonts team is producing in collaboration with typographic experts from around the world.                 |
 | [Modern Font Stacks](https://modernfontstacks.com)           | System font stack CSS organized by typeface classification for every modern OS - The fastest fonts available. No downloading, no layout shifts, no flashes — just instant renders. |
+| [WhatFontIs](https://www.whatfontis.com/)                    | Upload an image, and their font finder will match it with over 1.2M+ fonts, including both commercial and free options. They'll then show you more than 60 similar fonts.          |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
