@@ -50,6 +50,7 @@
 - [Tech](#tech)
 - [Tourism](#tourism)
 - [Transportation](#transportation)
+- [UK](#uk)
 - [Usability](#usability)
 - [Video Conferencing](#video-conferencing)
 - [Village Halls](#village-halls)
@@ -922,6 +923,18 @@
 | Website                                        | Description                                                                |
 | ---------------------------------------------- | -------------------------------------------------------------------------- |
 | [How Many Left](https://www.howmanyleft.co.uk) | Find statistics about every make and model of vehicle registered in the UK |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## UK
+
+> Resources related to the UK
+
+| Website                          | Description                                                                                                                                                      |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Elector.uk](https://elector.uk) | Elector.uk is a calm, non-commercial way to match your values against the main UK parties. Five short blocks — broad to narrow — ending with a confident answer. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
