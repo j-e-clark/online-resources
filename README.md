@@ -93,13 +93,14 @@
 
 > AI services
 
-| Website                                                   | Description                                                                                                                          |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [Futurepedia](https://www.futurepedia.io)                 | The largest AI tools directory                                                                                                       |
-| [Midjourney](https://www.midjourney.com/)                 | Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species |
-| [Midjourney Documentation](https://midjourney.gitbook.io) | Quick Start Guide, User Manual, FAQs                                                                                                 |
-| [OpenAI](https://openai.com)                              | Creators of ChatGPT and DALL-E 2                                                                                                     |
-| [phind](https://www.phind.com)                            | The AI search engine for developers                                                                                                  |
+| Website                                                   | Description                                                                                                                                                                                                 |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Futurepedia](https://www.futurepedia.io)                 | The largest AI tools directory                                                                                                                                                                              |
+| [Is Your Site Agent-Ready?](https://isitagentready.com)   | Scan your website to see how ready it is for AI agents. We check multiple emerging standards — from robots.txt and Markdown negotiation to MCP, OAuth, Agent Skills and agentic commerce. - From Cloudflare |
+| [Midjourney](https://www.midjourney.com/)                 | Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species                                                                        |
+| [Midjourney Documentation](https://midjourney.gitbook.io) | Quick Start Guide, User Manual, FAQs                                                                                                                                                                        |
+| [OpenAI](https://openai.com)                              | Creators of ChatGPT and DALL-E 2                                                                                                                                                                            |
+| [phind](https://www.phind.com)                            | The AI search engine for developers                                                                                                                                                                         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
